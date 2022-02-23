@@ -1,0 +1,1336 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Family reformation promoted in a sermon on Joshua, chap. 24. ver. 15. and by short catechismes fitted for the three-fold relations in a family of 1. Children and parents, 2. Servants and masters, 3. Husband and wife / by D. Cawdrey ...</title>
+            <author>Cawdrey, Daniel, 1588-1664.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31438</idno>
+            <idno type="STC">Wing C1627</idno>
+            <idno type="STC">ESTC R5596</idno>
+            <idno type="EEBO-CITATION">12319690</idno>
+            <idno type="OCLC">ocm 12319690</idno>
+            <idno type="VID">59451</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59451)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 934:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Family reformation promoted in a sermon on Joshua, chap. 24. ver. 15. and by short catechismes fitted for the three-fold relations in a family of 1. Children and parents, 2. Servants and masters, 3. Husband and wife / by D. Cawdrey ...</title>
+                  <author>Cawdrey, Daniel, 1588-1664.</author>
+               </titleStmt>
+               <extent>[24], 118 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printd by T.C. for John Wright ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Joshua XXIV, 15 --  Sermons.</term>
+               <term>Family --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59451:1"/>
+            <pb facs="tcp:59451:1" rendition="simple:additions"/>
+            <p>FAMILY REFORMATION PROMOTED.</p>
+            <p>IN A SERMON on <hi>Joſhua,</hi> Chap. 24. ver. 15.</p>
+            <p>AND By ſhort <hi>Catechiſmes</hi> fitted for the Three-fold <hi>Relations</hi> in a Family. Of
+<list>
+                  <item>1. <hi>Children and Parents.</hi>
+                  </item>
+                  <item>2. <hi>Servants and Maſters.</hi>
+                  </item>
+                  <item>3. <hi>Husband and Wife.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By D <hi>Cawdreys</hi> Preacher of the Word at Billing <hi>Magn.</hi> in <hi>Northmptonſhire.</hi>
+            </p>
+            <q>
+               <bibl>Gen. <hi>18.19.</hi>
+               </bibl>
+               <p>I know Abraham, that he will command his Children and his houſhold after hm, and they ſhall keep the way of the Lord, &amp;c.</p>
+               <bibl>
+                  <hi>1 Tim. 5.8.</hi>
+               </bibl>
+               <p>But if any provide not for his own, and ſpecially thoſe of his own Houſe, he hath denyed the Faith, and is worſe then an Infidel.</p>
+            </q>
+            <p>LONDON Printed by <hi>T. C.</hi> For <hi>John Wright</hi> at the <hi>Kings Head</hi> in the Old Baily 1656.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:59451:2"/>
+            <pb facs="tcp:59451:2" rendition="simple:additions"/>
+            <head>The Preface to the Reader.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Or the better un<g ref="char:EOLhyphen"/>derſtanding, and eaſier practice of the following Treatiſe, be pleaſed to take notice of theſe three things: <hi>1.</hi> The reaſon of my undertaking this work <hi>2.</hi> The end, or deſign I had in it. <hi>3.</hi> The uſe of it; with the directions ten<g ref="char:EOLhyphen"/>ding thereunto.</p>
+            <p n="1">
+               <hi>1.</hi> For my undertaking this work, I deſire no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to aſſume or arrogate to my ſelfe, any thing more than
+<pb facs="tcp:59451:3"/> is mine own (the <hi>Method</hi> and ordering of the ſeve<g ref="char:EOLhyphen"/>ral Queſtions &amp; Anſwers in the little Catechiſmes) profeſſing ingenuouſly, the <hi>Materials</hi> thereof to be none of mine: they were lent me firſt by my <hi>ever honoured Father,</hi> Maſter <hi>Robert Cawdrey</hi> (long ſince gone to his reſt and glory) in a Tract firſt writ<g ref="char:EOLhyphen"/>ten and publiſhed by him, called, <hi>A Godly Form of Houſhold Government;</hi> which found good accep<g ref="char:EOLhyphen"/>tance and ſucceſſe among the people of God: But ſince his deceaſe peruſed and augmented by thoſe two pious &amp; famous <hi>Divines</hi> in this generation, Maſter
+<pb facs="tcp:59451:3"/> 
+               <hi>Dod,</hi> and Mr. <hi>Cleaver.</hi> In whom I have nothing to complain of, in their publication of it, but that they <hi>raiſed up ſeed to themſelves,</hi> and not to their deceaſed brother: I meane, for putting to their Booke their own <hi>Names,</hi> concealing (or at leaſt ob<g ref="char:EOLhyphen"/>ſcuring the Name of the firſt <hi>Father</hi> of it; onely putting the two firſt letters of his names, <hi>R. C.</hi> which ſignifies nothing to a <hi>ſtrange Reader.</hi> But I ſhall as much commend them for their <hi>learned Additions,</hi> and <hi>pious Augmentations,</hi> to make that <hi>Diſcourſe</hi> more full and compleat. From
+<pb facs="tcp:59451:4"/> that Book, I ſay, I borrow<g ref="char:EOLhyphen"/>ed the <hi>Materialls;</hi> and after them, from that Re<g ref="char:EOLhyphen"/>verend, Iudicious and godly Divine, (whoſe works and labours, are fa<g ref="char:EOLhyphen"/>mous in all the Churches and his Reward now with his God) <hi>Dr. Gouge, in</hi> his Tract <hi>of Domeſtical Duties;</hi> Wherein, they are more elaborately, and largely handled; but per<g ref="char:EOLhyphen"/>haps two largely for young ones, to learne or remem<g ref="char:EOLhyphen"/>ber; and the Book too dear for many, yea moſt poor houſholders to buy. I once (during our ſitting together in the aſſembly) motioned the buſineſſe to himſelfe, That hee would
+<pb facs="tcp:59451:4"/> be pleaſed, to extract that his larger diſcourſe, into ſome ſhorter queſtions and anſwers, fitted both to the <hi>Capacity</hi> of younger peo<g ref="char:EOLhyphen"/>ple in a Family, and to the <hi>Purſes</hi> of the poorer ſort; who have moſt need of ſuch Inſtructions. His anſwer (as I remembred) was, that he liked the mo<g ref="char:EOLhyphen"/>tion well, but wanted time and leaſure to do it: and withall, not onely gave me leave, but deſired me to do what I thought to be moſt uſeful therein. I had ſome thoughts, divers years ſence, to have done it in his life time, to have had his judgement and directions in it: But other
+<pb facs="tcp:59451:5"/> troubles and buſineſſe, hi<g ref="char:EOLhyphen"/>therto diverted the execu<g ref="char:EOLhyphen"/>tion of it. I onely drew out ſome particulars, for the uſe of my own people, and family, and ſome pri<g ref="char:EOLhyphen"/>vate friends: Which be<g ref="char:EOLhyphen"/>ing now perfected, and methodized, I preſent to the publick view, together with a ſhort Sermon, of the <hi>Duty,</hi> and <hi>Neceſſity</hi> of Family <hi>Reformation;</hi> to perſwade, if poſſible (the bleſſing of God accompa<g ref="char:EOLhyphen"/>nying it) all <hi>Houſhold<g ref="char:EOLhyphen"/>ers,</hi> to put the ſame in pra<g ref="char:EOLhyphen"/>ctice: I doubt not, but if all the aforeſaid <hi>Authors</hi> were now living, they would approve of this my undertaking, as others yet
+<pb facs="tcp:59451:5"/> alive have done. That for the firſt.</p>
+            <p n="2">
+               <hi>2.</hi> For the end or de<g ref="char:EOLhyphen"/>ſigne in it, it was in gene<g ref="char:EOLhyphen"/>ral, nothing but the <hi>Glory</hi> of God, and the <hi>Good</hi> of Soules, Families, Townes, Churches, and the whole Nation in all theſe; To the advancing whereof, not onely my <hi>Holy Cal<g ref="char:EOLhyphen"/>ling</hi> (however now de<g ref="char:EOLhyphen"/>ſpiſed by ungodly men) but my <hi>Reſolutions</hi> of a long time, have obliged me; having devoted my ſelfe (while I live, which cannot now be long) to the publick good; which I believe may be much promoted, by a conſcien<g ref="char:EOLhyphen"/>tious uſe of the directions
+<pb facs="tcp:59451:6"/> herein given, for it is ob<g ref="char:EOLhyphen"/>vious to every obſervation, that <hi>Families</hi> are the Se<g ref="char:EOLhyphen"/>minaries of <hi>Towns, Churches, Countries,</hi> and <hi>Nations;</hi> and are as it were, the <hi>Hives,</hi> out of which do <hi>ſwarm</hi> the ma<g ref="char:EOLhyphen"/>terials of greater aſſemb<g ref="char:EOLhyphen"/>lies; if therefore they be not wel <hi>Principled</hi> there<g ref="char:EOLhyphen"/>in all their <hi>Relations,</hi> the reſt muſt needs miſcarry. And here I obſerved, was the true Original of all our <hi>Miſcarriages</hi> and miſ<g ref="char:EOLhyphen"/>chiefes abroad; that when young people went out thence, to conſtitute new families, either as ſer<g ref="char:EOLhyphen"/>vante, or by marriage, they knew not the particular
+<pb facs="tcp:59451:6"/> duties of their <hi>New Re<g ref="char:EOLhyphen"/>lations;</hi> as <hi>Husbands</hi> and <hi>Wives,</hi> as <hi>Parents</hi> and <hi>Children,</hi> as <hi>Maſters and Servants:</hi> becauſe for the moſt part, they were never taught them in the Families from whence they were tranſ<g ref="char:EOLhyphen"/>planted. Remove a <hi>Crab<g ref="char:EOLhyphen"/>ſtock</hi> from a barren to a fruitfull ſoile, it will ſtill be a Crabſtock, without change of nature. It is a certain <hi>Truth,</hi> a thouſand times exemplified, <hi>That (without ſpeciall con<g ref="char:EOLhyphen"/>verting grace) he or ſhe ſhall never be good pa<g ref="char:EOLhyphen"/>rents to their children, that were not good children to their pa<g ref="char:EOLhyphen"/>rents:
+<pb facs="tcp:59451:7"/> Nor they good Governours of ſervants that were not good ſervants to their Go<g ref="char:EOLhyphen"/>vernours; nor they good Husband or Wife, in their own families that were not good in their former family Rela<g ref="char:EOLhyphen"/>tions, as children or ſer<g ref="char:EOLhyphen"/>vants;</hi> Nor laſtly, will thoſe who are naught in their <hi>Family</hi> Relations be good <hi>Neighbours</hi> in a Town, good <hi>Members</hi> of a Church, or good <hi>Sub<g ref="char:EOLhyphen"/>jects,</hi> or <hi>Magiſtrates</hi> in the State: A <hi>good man</hi> is the proper ſubject of the the <hi>goodneſſe</hi> of all other Relations: And he onely is a good man, that is good
+<pb facs="tcp:59451:7"/> in his firſt Relations; The Spring then of all <hi>Refor<g ref="char:EOLhyphen"/>mation,</hi> in <hi>Townes, Churches,</hi> Nations, (next to perſonal Reformation, where every one mends one, that is himſelfe) is that which is found in Families. If they were but either well <hi>conſtitu<g ref="char:EOLhyphen"/>ted,</hi> or well <hi>ordered</hi> and reformed, the whole work were done. And that's the <hi>Deſign</hi> of this Diſ<g ref="char:EOLhyphen"/>courſe, and the ſecond thing propounded to con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <p n="3">
+               <hi>3.</hi> The third and laſt now onely remaines, which is, the <hi>Uſe</hi> and <hi>Directi<g ref="char:EOLhyphen"/>ons</hi> how to improve this Treatiſe, to the ends for
+<pb facs="tcp:59451:8"/> which it was deſigned. For the expediting where<g ref="char:EOLhyphen"/>of, I ſhall have a reſpect. Firſt to the <hi>Conſtitution</hi> of a new Family; and ſe<g ref="char:EOLhyphen"/>condly to a Family alrea<g ref="char:EOLhyphen"/>dy <hi>Conſtituted:</hi> For as it is in <hi>Churches,</hi> (and the <hi>Houſe</hi> is or ſhould be a little <hi>Church</hi>) they are conſidered either in their firſt Conſtitution, or as already Conſtituted: So it is in Families; ſome Rules will fit the firſt Con<g ref="char:EOLhyphen"/>ſtitution of it, and others the ordering of it, when corrupted.</p>
+            <p n="1">
+               <hi>1.</hi> If a Family be to be newly Conſtituted, as com<g ref="char:EOLhyphen"/>monly by the <hi>Marriage</hi> of ſingle perſons it is, then
+<pb facs="tcp:59451:8"/> they become firſt Husband and Wife, then Parents to children, and with that Maſters of ſervants, which are all the <hi>Relations</hi> of a Family. The principal care muſt be to chuſe fit <hi>Materialls</hi> for the buil<g ref="char:EOLhyphen"/>ding; which how well, and how far it may be done, is delivered in the Sermon hereto anneved, to which I refer the Reader.</p>
+            <p n="2">
+               <hi>2.</hi> For a <hi>Family</hi> al<g ref="char:EOLhyphen"/>ready Conſtituted, but cor<g ref="char:EOLhyphen"/>rupted and needing Re<g ref="char:EOLhyphen"/>formation the ſame courſe muſt be taken, as in Reforming a corrupted Church: For as there, <hi>Preaching</hi> and <hi>Catechi<g ref="char:EOLhyphen"/>ſing,</hi> and all wayes of <hi>In<g ref="char:EOLhyphen"/>ſtruction</hi>
+               <pb facs="tcp:59451:9"/> are firſt to be uſed by the <hi>Miniſter,</hi> the chiefe Officer thereof; and after that, the practice of that knowledge wrought muſt be preſſed by <hi>Admo<g ref="char:EOLhyphen"/>nition, Reproofe, Ex<g ref="char:EOLhyphen"/>hortation;</hi> And laſtly, (if theſe proceedings prove ineffectual) the exerciſe of <hi>Diſcipline</hi> and Cenſures upon wilfull and ſtubborn offenders: Juſt ſo it ought to be in a <hi>Family,</hi> as it is alſo a little more largely directed in the <hi>Sermon</hi> following, to which I re<g ref="char:EOLhyphen"/>fer. But we are to ſpeak now onely to the firſt of thoſe three, how the chiefe Houſholder may lay that foundation of Reformati<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:59451:9"/> in his Family; which is by <hi>Knowing,</hi> and <hi>Teaching</hi> them under his charge, the true knowledge of thoſe <hi>Duties,</hi> belong<g ref="char:EOLhyphen"/>ing to the ſeveral Relati<g ref="char:EOLhyphen"/>ons of a Family, as afore. To which purpoſe I would commend (if they have not better) the reading, and practicing (in all good conſcience and ſincerity) of the Sermon following, as far as it concerns them<g ref="char:EOLhyphen"/>ſelves in their ſingle, double, or threefold Rela<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> as <hi>Husbands</hi> to Wives, as <hi>Parents</hi> to chi<g ref="char:EOLunhyphen"/>dren, as <hi>Maſters</hi> to ſer<g ref="char:EOLhyphen"/>vants; And then to <hi>Teach</hi> the reſt of the family (their correlates) wives,
+<pb facs="tcp:59451:10"/> children ſervants, their particular duties accor<g ref="char:EOLhyphen"/>ding to their rela<g ref="char:EOLhyphen"/>tions reſpectively. But when their children or ſeroants, are to be tranſ<g ref="char:EOLhyphen"/>planted, either for the conſtituting a new family, as Husbands or Wives, or for the furniſhing of ano<g ref="char:EOLhyphen"/>ther family, as ſervants; then to aquaint them with and make them under<g ref="char:EOLhyphen"/>ſtand, the duties of their new Relations, before they come to practice them. To which end, the little ſhort <hi>Catechiſme's</hi> fitted for each Relation, will much conduce, if they be taught, &amp; explained wiſely by the chieife <hi>Houſholder,</hi> and
+<pb facs="tcp:59451:10"/> impreſſed on them, by his own <hi>Example,</hi> in the per<g ref="char:EOLhyphen"/>formance of his duties in all his owne relations.</p>
+            <p>The <hi>Benefit</hi> of teach<g ref="char:EOLhyphen"/>ing and whetting on of theſe prineiples, conſcien<g ref="char:EOLhyphen"/>tiouſly, will be exceeding great. For,</p>
+            <p n="1">
+               <hi>1.</hi> By this meanes <hi>Houſ<g ref="char:EOLhyphen"/>holders</hi> themſelves may come to ſee, repent of, and amend their own <hi>miſcar<g ref="char:EOLhyphen"/>riages,</hi> not onely when they were children or ſer<g ref="char:EOLhyphen"/>vants, but alſo their pre<g ref="char:EOLhyphen"/>ſent neglects, of their du<g ref="char:EOLhyphen"/>ties, as <hi>Husbands, Pa<g ref="char:EOLhyphen"/>rents, Maſters,</hi> which they muſt performe, as they expect that their <hi>cor<g ref="char:EOLhyphen"/>relates</hi> ſhould be good &amp;
+<pb facs="tcp:59451:11"/> ſerviceable to them, or Gods <hi>bleſſing</hi> upon both.</p>
+            <p n="2">
+               <hi>2</hi> By the knowledge they may get by teaching o<g ref="char:EOLhyphen"/>thers, they may not onely learn their own <hi>Duties</hi> in all their Relations, but alſo be able to call upon their Inferiours to do their Duties, and to exact them of them, when they goe aſtray.</p>
+            <p n="3">
+               <hi>3.</hi> This (if they have any conſcience, or care to pleaſe God) may ſerve to make them the more care<g ref="char:EOLhyphen"/>full to performe their own <hi>Duties,</hi> in all their <hi>Re<g ref="char:EOLhyphen"/>lations;</hi> becauſe now their <hi>Inferiours</hi> will be able to diſcover their fai<g ref="char:EOLhyphen"/>lings, having learned their
+<pb facs="tcp:59451:11"/> 
+               <hi>Duties</hi> in ſuch Relations, when God ſhall call them to them.</p>
+            <p n="4">
+               <hi>4.</hi> This way they may fit and prepare their chil<g ref="char:EOLhyphen"/>dren and ſervants, to be <hi>Materials</hi> of new Fami<g ref="char:EOLhyphen"/>lies, as <hi>Husbands</hi> or <hi>Wives,</hi> (according to their Sexe) to be <hi>Parents</hi> or <hi>Maſters;</hi> being already furniſhed with the know<g ref="char:EOLhyphen"/>ledg of the <hi>Duties</hi> of thoſe new Relations.</p>
+            <p n="5">
+               <hi>5.</hi> And laſtly, make them Inſtrumentall and ſerviceable to the <hi>publick good,</hi> as good <hi>Neigh<g ref="char:EOLhyphen"/>bours</hi> in Townes, good <hi>Members</hi> of Churches, good <hi>Subjects</hi> in the
+<pb facs="tcp:59451:12"/> State, and ſome of them good <hi>Officers</hi> in Church or State; For that <hi>Rule</hi> of the Apoſtle here holds well; <hi>He that cannot rule his own Family, how ſhall he govern the Church,</hi> or Common<g ref="char:EOLhyphen"/>wealth? <hi>1. Tim. 3.4, 5.</hi>
+            </p>
+            <p>One thing more, and I have done; Becauſe <hi>Du<g ref="char:EOLhyphen"/>ties</hi> will not eaſily goe down or be digeſted, if they be not manifeſted to be impoſed by <hi>Divine Authority:</hi> I have (fol<g ref="char:EOLhyphen"/>lowing the Reverent Doct<g ref="char:EOLhyphen"/>or herein) backed the moſt of them, by Texts of Scrip<g ref="char:EOLhyphen"/>ture, which held out, either expreſſe <hi>Com<g ref="char:EOLhyphen"/>mands,</hi> or eminent <hi>Ex<g ref="char:EOLhyphen"/>amples</hi>
+               <pb facs="tcp:59451:12"/> of holy Saints, the beſt comments upon com<g ref="char:EOLhyphen"/>mands; or noted <hi>Extra<g ref="char:EOLhyphen"/>vagances</hi> of wicked men, againſt the rule of the Word; which in opening and explaining of the <hi>An<g ref="char:EOLhyphen"/>ſwers</hi> are to be taken no<g ref="char:EOLhyphen"/>tice of, and applied by the <hi>chief Houſholder.</hi> I need ſay no more to perſwade the <hi>Governours</hi> of Fa<g ref="char:EOLhyphen"/>milies, to ſet upon the ex<g ref="char:EOLhyphen"/>erciſe and practice of theſe Directions, than what I have ſaid in the <hi>Ser<g ref="char:EOLhyphen"/>mon.</hi> I onely adde this ſhort Ejaculation for them and theirs; That the God of all grace would bleſſe and proſper them, to the <hi>Glory</hi> of his Name,
+<pb facs="tcp:59451:13"/> the <hi>Honour</hi> of Religion, the <hi>publick Good of</hi> Church and State; and to the furthering of their <hi>comfort</hi> here, and eternall <hi>Salvation</hi> and glory here<g ref="char:EOLhyphen"/>after. Amen.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:59451:13"/>
+            <head>FAMILY REFORMATION Promoted.</head>
+            <epigraph>
+               <q>
+                  <bibl>Joſhua <hi>24.15.</hi>
+                  </bibl>
+                  <p>But as for me and my houſe, we will ſerve the Lord.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here hath been of late (all know) much <hi>talke,</hi> but (God knowes) more <hi>need</hi> of a ge<g ref="char:EOLhyphen"/>neral <hi>Reformation.</hi> The foun<g ref="char:EOLhyphen"/>dations of <hi>Church</hi> &amp; <hi>State,</hi> are out of courſe; and un<g ref="char:EOLhyphen"/>leſſe God put under his hand, very like to come to confuſion. The common <hi>miſtake,</hi> and miſchief is, that every man almoſt <hi>complains,</hi> but few or none do help to amend what is amiſſe, in
+<pb n="2" facs="tcp:59451:14"/> themſelves or others. It were the <hi>readieſt</hi> (as firſt and chiefeſt) way to reform all, for every one to mend one; that is <hi>himſelfe.</hi> For a <hi>Fami<g ref="char:EOLhyphen"/>ly,</hi> being made up of ſingle perſons, in ſeveral Rela<g ref="char:EOLhyphen"/>tions; Townes or Congre<g ref="char:EOLhyphen"/>gations of many Families, and the whole Nation, of Townes, or Congregations; if ſingle perſons were but as they ſhould be, and as in ſerious thoughts they ac<g ref="char:EOLhyphen"/>knowledge they ought to be, that is <hi>Religiouſly good,</hi> the whole body of Church or State, muſt needs be ſo. But it is not ſo eaſie a mat<g ref="char:EOLhyphen"/>ter, to reforme one man; I meane, to perſwade him to <hi>reforme</hi> himſelfe; while ſome, for <hi>ignorance</hi> cannot, others for the <hi>Impetuouſneſse</hi> of their luſts, will not; and others out of <hi>ſelfe-conceite,</hi>
+               <pb n="3" facs="tcp:59451:14"/> think they need not Re<g ref="char:EOLhyphen"/>forme, unleſſe there be ſome other Superiour, and Superintendent power to do it; we are not like in haſt to ſee a Reformation. There are therefore (bleſſed be God) ſome other means left us to effect this work. Firſt the <hi>Govornours</hi> of fami<g ref="char:EOLhyphen"/>lies. Secondly, <hi>Officers</hi> in the Church. And thirdly, <hi>Ma<g ref="char:EOLhyphen"/>giſtrates</hi> in the State. If <hi>Go<g ref="char:EOLhyphen"/>vernours</hi> of families would but reforme their own <hi>Re<g ref="char:EOLhyphen"/>lations,</hi> the Church would have little uſe of her <hi>Diſci<g ref="char:EOLhyphen"/>pline,</hi> and the State leſſe of Execution of <hi>Juſtice.</hi> If on the other ſide, Townes or Congregations be looſe and profane, the <hi>Nation</hi> conſiſt<g ref="char:EOLhyphen"/>ing of them, cannot be good or happy: if <hi>Fami<g ref="char:EOLhyphen"/>lies</hi> be wicked and licenti<g ref="char:EOLhyphen"/>ous, Townes and Pariſhes,
+<pb n="4" facs="tcp:59451:15"/> conſiſting of them, muſt needs be naught: And if ſingle perſons, be (and in ſpight of houſhold diſci<g ref="char:EOLhyphen"/>pline, will be) vitious, <hi>Fami<g ref="char:EOLhyphen"/>lies</hi> conſiſting of ſuch, muſt neceſſarily be bad; and conſequently all very bad. The <hi>Reformation</hi> then of all, ſhould firſt begin with <hi>Single</hi> perſons; if they re<g ref="char:EOLhyphen"/>fuſe, the <hi>Houſholder</hi> muſt undertake the cure. In his default, the <hi>Officers</hi> of the Church muſt make ſupply by their diſcipline; And in their neglect, either the civil <hi>Magiſtrate</hi> muſt re<g ref="char:EOLhyphen"/>forme, both <hi>Church</hi> and <hi>Fa<g ref="char:EOLhyphen"/>milies,</hi> and <hi>ſingle perſons,</hi> or expect nothing but ruine and deſtruction of all. Now ſeeing, (as was ſaid) it is not poſſible, or not very probable for us <hi>(Miniſters)</hi> to perſwade every ſingle
+<pb n="5" facs="tcp:59451:15"/> perſon, to a ſerious and through Reformation of himſelfe; It remaines to us in the ſecond place, to try how far we can prevaile with chief <hi>Houſholders</hi> to act their part, to make their Fa<g ref="char:EOLhyphen"/>milies good, ſo all good who have both power in their hands, and all good reaſon to move them there<g ref="char:EOLhyphen"/>unto, as ſhall appear here<g ref="char:EOLhyphen"/>after. For this purpoſe, I have choſen this text, as a worthy <hi>Inſtance</hi> of an Ex<g ref="char:EOLhyphen"/>emplary <hi>Reſolution,</hi> in a great and good <hi>Houſholder;</hi> that renowned <hi>Joſhua</hi> by name: Who (leaving o<g ref="char:EOLhyphen"/>thers to their choice) for <hi>himſelfe</hi> and <hi>family,</hi> under<g ref="char:EOLhyphen"/>takes to be <hi>Religious.</hi> Doe you (ſayes he) as you pleaſe, chuſe what Gods you will ſerve: <hi>But as for me and my houſe, we will ſerve the Lord.</hi>
+            </p>
+            <pb n="6" facs="tcp:59451:16"/>
+            <p>
+               <note place="margin">Parts of the text.</note>In the words we may without much curioſity of Diviſion, conſider theſe ge<g ref="char:EOLhyphen"/>neral parts.</p>
+            <p n="1">1. The Epitome of all Religion, expreſſed in theſe words, To ſerve the Lord: which is the ſumme of both Tables of the Law, eſpeci<g ref="char:EOLhyphen"/>ally of the firſt.</p>
+            <p n="2">2. <hi>Joshuahs</hi> Reſolution to ſerve the Lord; wherein we have three particulars.</p>
+            <p n="1">1. His appropriation of it to himſelfe, As for me, I will ſerve the Lord.</p>
+            <p n="2">2. The extenſion of his Religion, to his family; As for me and my houſe, we will ſerve the Lord.</p>
+            <p n="3">3. The Order of it. Firſt himſelfe will be Religious, and then his houſe: I and my houſe, &amp;c.</p>
+            <p n="1">1. For the firſt, The ſer<g ref="char:EOLhyphen"/>vice of God, to be the ſum
+<pb n="7" facs="tcp:59451:16"/> of all Religion;<note place="margin">1 The Epitome of Religi<g ref="char:EOLhyphen"/>on.</note> it appears by thoſe places of Scripture where true Religion is commanded, <hi>Exod.</hi> 23, 25. <hi>Ye shall ſerve the Lord your God.</hi>
+               <note place="margin">To ſerve God.</note> Deut. 10.12. <hi>What doth the Lord thy God require of thee? but, to ſerve him with all thy heart and all thy ſoul. How? To keep the Commande<g ref="char:EOLhyphen"/>ments of the Lord,</hi> &amp;c. That is, all his Commande<g ref="char:EOLhyphen"/>ments of both Tables. Some there are who diſtinguiſh <hi>Worship</hi> and <hi>Service,</hi> making <hi>Worſhip</hi> the object of the firſt Table, and <hi>Service</hi> of the ſecond: but without any ground of Scripture; for that holds out <hi>Service,</hi> as more general, and inclu<g ref="char:EOLhyphen"/>ding Worſhip, as a more ſpecial part of Gods Ser<g ref="char:EOLhyphen"/>vice: as is evident in the texts above cited, and many more like unto them. We
+<pb n="8" facs="tcp:59451:17"/> may better diſtinguiſh the <hi>Service</hi> of God into <hi>Imediate</hi> which is properly called <hi>Worſhip:</hi> in the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt Table and <hi>Mediate,</hi> by men, which is called <hi>Righteouſneſſe</hi> in the ſecond Table: for though we do not properly <hi>worſhip</hi> God by doing the works of <hi>righteouſneſse,</hi> yet are we ſaid to <hi>ſerve</hi> God in doing to men the duties of the ſe<g ref="char:EOLhyphen"/>cond Table: As the Apoſtle ſayes of ſervants: <hi>That in o<g ref="char:EOLhyphen"/>beying their Maſters, they ſerve the Lord Chriſt, Col.</hi> 3.24. We note this becauſe it will be of uſe anone.</p>
+            <p n="2">
+               <note place="margin">2 <hi>Joſhua</hi>'s Reſoluti<g ref="char:EOLhyphen"/>on.</note>2. For the particulars of the ſecond part <hi>Joſhuahs</hi> re<g ref="char:EOLhyphen"/>ſolution; many things might be obſeved, but we ſhall wave them all; and look at him onely, as an Houſholder, with Relation to his family: <hi>I and my
+<pb n="9" facs="tcp:59451:17"/> houſe will ſerve the Lord:</hi> and draw out this one Obſer<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <hi>That it is the property,</hi>
+               <note place="margin">Obſerva<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>and duty of a good Houſholder, to provide and taks care, that all under his charge doe ſerve the Lord; that is, be religious, and righteous; the one towards God, the other towards men:</hi>
+               <note place="margin">1 Proved.</note> We ſhall firſt confirme it, and then apply it: confirme it.</p>
+            <p n="1">1. In general;<note place="margin">1 In gene<g ref="char:EOLhyphen"/>ral, by examples.</note> And here we have firſt the commen<g ref="char:EOLhyphen"/>ded example of <hi>Abraham,</hi> the father of the faithful, by God himſelfe, <hi>Gen.</hi> 18.19. <hi>I know</hi> Abraham, <hi>that he will command his children and his houshold after him, and they shall keep the way of the Lord, to do juſtice and judgement,</hi> &amp;c. Which alſo he practi<g ref="char:EOLhyphen"/>ſed, <hi>Gen.</hi> 14.14. where we heare of his <hi>trained,</hi> or <hi>in<g ref="char:EOLhyphen"/>ſtructed,</hi>
+               <pb n="10" facs="tcp:59451:18"/> catechiſed ſervants: And <hi>Gen.</hi> 17.23. being en<g ref="char:EOLhyphen"/>tered into Covenant him<g ref="char:EOLhyphen"/>ſelfe, and circumciſed; he circumciſed the ſame day, <hi>Ishmael</hi> his ſonne, and all that were borne in his houſe,<note place="margin">Gen. 35.2. <hi>Jacob</hi> purgeth his family.</note> and bought with money. This <hi>Family</hi> Re<g ref="char:EOLhyphen"/>ligion, or Reformation, is graciouſly and couragi<g ref="char:EOLhyphen"/>ouſly reſolved on by <hi>David, Pſal.</hi> 101.2. &amp;c. <hi>I will be<g ref="char:EOLhyphen"/>have my ſelfe wiſely in a per<g ref="char:EOLhyphen"/>fect way: I will walke within my houſe, with a perfect heart,</hi> &amp;c. And marke his wiſdom, both in the <hi>conſtitution,</hi> and <hi>ordering</hi> of his Family, <hi>ver.</hi> 3. <hi>I will ſet no wicked thing (a thing of Belial, the diſ<g ref="char:EOLhyphen"/>cription of a wicked perſon) before mine eyes. I hate the work of them that turn aſide,</hi> &amp;c. <hi>I will not know a wicked perſon, ver.</hi> 4. as if ſaid,
+<pb n="11" facs="tcp:59451:18"/> None ſuch ſhall <hi>come</hi> into my houſe: <hi>He that worketh deceit, shall not dwell in my houſe (or if he doe unawares come in) he that telleth lyes, shall not tarry in my ſight,</hi> ver. 7. Who then ſhall ſerve him? he that will ſerve God with him; <hi>Mine eyes shall be upon the faithful of the Land, that they may dwell with me; He that walketh in a perfect way (as I reſolved to do, ver.</hi> 2.) <hi>he shall ſerve me,</hi> Hence it is obſervable in the <hi>New Teſtament,</hi> that as a proper <hi>conſequence</hi> of the <hi>Housholders converſion,</hi> when any ſuch believed, his Fa<g ref="char:EOLhyphen"/>mily believed with him. <hi>Joh.</hi> 4.53. its ſaid of that Nobleman; <hi>Himſelfe be<g ref="char:EOLhyphen"/>lieved, and his whole houſe.</hi> So <hi>Acts</hi> 16.15. <hi>Lydia</hi> was converted, baptized, and her houſhold: and <hi>ver.</hi> 33.
+<pb n="12" facs="tcp:59451:19"/> the <hi>Jaylor</hi> was baptized he and all his; as if they had learn'd <hi>Joſhuahs</hi> reſolution: As for me and my houſe, we will ſerve the Lord. This for the general.</p>
+            <p n="2">
+               <note place="margin">2 Special<g ref="char:EOLhyphen"/>ly in two Reſpects.</note>2. We ſhall look more <hi>ſpecially</hi> and particularly at thoſe <hi>Duties</hi> which concern the good Houſholder to performe and practice; and that with <hi>Reſpect</hi> either to his <hi>Relations,</hi> or to the par<g ref="char:EOLhyphen"/>ticular <hi>Services,</hi> required in the Family.</p>
+            <p n="1">
+               <note place="margin">1 To the ſeveral Relations in the Fa<g ref="char:EOLhyphen"/>mily. As,</note>1. In reſpect to his ſeve<g ref="char:EOLhyphen"/>ral <hi>Relations</hi> in the Family; which oftentimes (if not alwayes) are of three ſorts: 1. As an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Husband</hi> to a wife. 2. As a <hi>Parent</hi> to children. 3. As a <hi>Maſter</hi> to ſervants. The ſame perſon may ſtand in this threefold <hi>Relation,</hi> and in all theſe the <hi>Duty</hi> lies upon him, to ſee that all
+<pb n="13" facs="tcp:59451:19"/> under his charge, do ſerve the Lord: See the particu<g ref="char:EOLhyphen"/>lars.</p>
+            <p n="1">1. As an Husband to a Wife:<note place="margin">1 As an Husband to a Wife.</note> And the Apoſtle hath inſtructed him in that, 1 <hi>Pet.</hi> 3.7. <hi>Likewiſe ye Hus<g ref="char:EOLhyphen"/>bands dwell with them (your wives) according to know<g ref="char:EOLhyphen"/>ledge,</hi> &amp;c. That is, being able and ready to <hi>inſtruct,</hi> and <hi>guide</hi> them, in the ſervice and wayes of God: This is implied alſo, 1 <hi>Cor.</hi> 14.35. <hi>If wives will learn any thing, let them ask their Husbands at home:</hi> and <hi>ver.</hi> 34. <hi>they are commanded obedience, as alſo ſaith the Law:</hi> which im<g ref="char:EOLhyphen"/>plyes he hath power to command them, to know, and ſerve God: How elſe can an <hi>Husband</hi> ſay (as <hi>Joshua) I and my houſe will ſerve the Lord,</hi> when one principal <hi>party,</hi> is at liberty
+<pb n="14" facs="tcp:59451:20"/> to ſerve the <hi>Devil,</hi> without controle.</p>
+            <p n="2">
+               <note place="margin">2 As a fa<g ref="char:EOLhyphen"/>ther to children.</note>2. As a <hi>Father</hi> (or in his death or abſence, a <hi>Mother</hi>) unto children. The Scrip<g ref="char:EOLhyphen"/>ture is expreſſe for this, and full. <hi>Deut.</hi> 6.7, 8. <hi>Theſe words which I command thee, ſhall be in thine heart. And thou shalt teach them diligently to thy children; and thou shalt talke of them, when thou ſit<g ref="char:EOLhyphen"/>teſt in thine houſe, and when thou walkeſt by the way, and when thou lieſt down, and when thou riſeſt up.</hi> The ſame is repeated again (to note the <hi>excellency</hi> and neceſſity, and common neglect of this duty) <hi>Deut.</hi> 11.18. with this addition in both pla<g ref="char:EOLhyphen"/>ces; <hi>Thou shalt write them up<g ref="char:EOLhyphen"/>on the doorepoſts of thy houſe, and upon thy gates,</hi> to make them know, and remem<g ref="char:EOLhyphen"/>ber them the better: So
+<pb n="15" facs="tcp:59451:20"/> 
+               <hi>Pro.</hi> 22.6. <hi>Train up a childe in the way he should goe, and when he is old, he will not de<g ref="char:EOLhyphen"/>part from it.</hi> The New Teſtament ſpeaks the ſame language, <hi>Eph,</hi> 6 <hi>And ye Parents, bring up your chil<g ref="char:EOLhyphen"/>dren in the nurture, and admo<g ref="char:EOLhyphen"/>nition of the Lord.</hi>
+            </p>
+            <p n="3">3. As a <hi>Maſter</hi> to ſervants:<note place="margin">3 As a Maſter to ſervants.</note> 
+               <hi>Abrahams</hi> example is here recorded for imitation: <hi>He will command his houshold (as well as his children) that is his ſervants, and they shall keep the way of the Lord,</hi> &amp;c. That <hi>Pſal.</hi> 101. is <hi>Davids</hi> profeſſion, for <hi>ordering</hi> his ſervants. He will have all his ſervants faithful and <hi>re<g ref="char:EOLhyphen"/>ligious,</hi> or make them ſuch, or elſe eject, and turn them out of doores. The <hi>Maſters</hi> of families, <hi>Exod.</hi> 12.44. were to ſee that their ſer<g ref="char:EOLhyphen"/>vants did eat the <hi>Paſſeover;</hi>
+               <pb n="16" facs="tcp:59451:21"/> and did <hi>ſanctifie</hi> the Sab<g ref="char:EOLhyphen"/>bath, <hi>Exod.</hi> 20. in the fourth Command<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ent. Thus in reſpect to his Relations.</p>
+            <p n="2">
+               <note place="margin">2 To the kinds of ſervice of God.</note>2. In reſpect to the <hi>ſeve<g ref="char:EOLhyphen"/>ral kinds</hi> of Services of God, to be maintained in the <hi>Fa<g ref="char:EOLhyphen"/>mily;</hi> and they are (as we ſaid) of two ſorts.</p>
+            <p n="1">
+               <note place="margin">1 Imme<g ref="char:EOLhyphen"/>diate in the firſt Table</note>1. <hi>Immediate</hi> ſervice of God, in the firſt <hi>Table</hi> of the <hi>law,</hi> called ſpecially <hi>Worship:</hi> and that according to the four Commandments there<g ref="char:EOLhyphen"/>of: 1. To <hi>know, feare, love, truſt,</hi> delight in God: re<g ref="char:EOLhyphen"/>quired in the firſt Comman<g ref="char:EOLhyphen"/>dement. 2. To cauſe them to know, and attend upon all <hi>inſtituted Ordinances</hi> of worſhip; as <hi>Prayers, Reading,</hi> hearing the word: Grace &amp; Thankſgiving at Meales, Sacraments, <hi>&amp;c:</hi> 3. To <hi>Reverence</hi> Gods Name, in not taking it in vain; and
+<pb n="17" facs="tcp:59451:21"/> reverent uſing of all his <hi>Or<g ref="char:EOLhyphen"/>dinances</hi> and Creatures. 4. To <hi>ſanctifie</hi> his <hi>Sabbath:</hi> Theſe the <hi>chief Houſholder</hi> is to take care of, in all in his Family, as the places afore<g ref="char:EOLhyphen"/>cited manifeſt.</p>
+            <p n="2">2. <hi>Mediate Service,</hi>
+               <note place="margin">2 Mediate in the ſe<g ref="char:EOLhyphen"/>cond.</note> is that which at ſecond-hand, <hi>re<g ref="char:EOLhyphen"/>dounds</hi> to God, by <hi>ſerving</hi> of men, according to the Commandements of the ſecond Table; Teaching them to be <hi>obedient</hi> to Su<g ref="char:EOLhyphen"/>periours; to be <hi>meek,</hi> quiet, peaceable: To be <hi>chaſt</hi> and <hi>temperate:</hi> To be <hi>juſt</hi> and righteous in their dealings. To be <hi>true</hi> and <hi>faithful</hi> in their words; And to be <hi>mo<g ref="char:EOLhyphen"/>derate</hi> in their deſires, <hi>con<g ref="char:EOLhyphen"/>tented</hi> with their own eſtate, &amp;c. In doing theſe things, men are ſaid, by <hi>reflexion,</hi> and at laſt reſult to <hi>ſerve</hi> God; as is clearely ſpoken of
+<pb n="18" facs="tcp:59451:22"/> ſervants, <hi>Col.</hi> 3.24. and <hi>Eph.</hi> 6.6. <hi>Not with eye-ſervice as men-pleaſers, but as the ſervants of Chriſt, doing the will of God from the heart.</hi> And <hi>ver.</hi> 7. <hi>With good will doing ſervice as to the Lord, and not to men.</hi> God is plea<g ref="char:EOLhyphen"/>ſed to eſteem himſelfe ſer<g ref="char:EOLhyphen"/>ved and <hi>worshipped,</hi> in <hi>faith<g ref="char:EOLhyphen"/>full</hi> performance of the works of our callings, and duties of the ſecond Table, to our <hi>neighbour;</hi> as well as in our <hi>Immediate</hi> worſhip of himſelfe, in the firſt Table.</p>
+            <p>
+               <note place="margin">3. By Rea<g ref="char:EOLhyphen"/>ſon.</note>Thus have we both ex<g ref="char:EOLhyphen"/>plained, and confirmed the Doctrine, by light, and proofes of Scripture; we ſhall adde the light and ſtrength of Reaſon.</p>
+            <p n="1">
+               <note place="margin">1. He is Gods De<g ref="char:EOLhyphen"/>puty.</note>1. The <hi>chief Housholder,</hi> is in his family Gods <hi>Depu<g ref="char:EOLhyphen"/>ty</hi> or <hi>Vice-roy,</hi> yea <hi>a God</hi> to his Wife, children, and ſer<g ref="char:EOLhyphen"/>vants,
+<pb n="19" facs="tcp:59451:22"/> as <hi>Moſes</hi> was to <hi>Aaron, Exod.</hi> 4.16.<note place="margin">Liberis ſuis Pater Dei vice eſt. Greg. Naz.</note> And therefore to manage his <hi>Authority</hi> for God, in promoting his ſer<g ref="char:EOLhyphen"/>vice, in the little <hi>World,</hi> or <hi>Kingdom</hi> of his <hi>own Houſe.</hi> He hath Gods Titles, of <hi>Fa<g ref="char:EOLhyphen"/>ther,</hi> and <hi>Lord</hi> put upon him; and ſo the <hi>Supreame</hi> power in the family, to <hi>command</hi> all his <hi>ſubjects</hi> (for ſo they are in a ſenſe) for God: As was ſaid of <hi>Abra<g ref="char:EOLhyphen"/>ham, he will command his Houſhold,</hi> &amp;c. He is alſo cal<g ref="char:EOLhyphen"/>led the <hi>Head</hi> of the Family (though chiefly of his <hi>wife</hi>) to overſee and guide the body, that little Domeſti<g ref="char:EOLhyphen"/>cal body.</p>
+            <p n="2">2. The <hi>Chief housholder</hi> Chriſtian, is in Chriſts <hi>ſtead,</hi>
+               <note place="margin">2 In Chriſt ſtead; in all his of<g ref="char:EOLhyphen"/>fices. As,</note> to his family; And hence it is ſaid of dutiful ſervants, that in ſerving their <hi>Maſters,</hi> they ſerve the <hi>Lord Chriſt,
+<pb n="20" facs="tcp:59451:23"/> Col.</hi> 3.24. whoſe <hi>Deputies,</hi> Maſters are to them. Where<g ref="char:EOLhyphen"/>upon they are inveſted with all his <hi>Offices</hi> (as every good Chriſtian is to himſelfe. <hi>Rev.</hi> 1.6. 1 <hi>Pet.</hi> 2.) of <hi>Pro<g ref="char:EOLhyphen"/>phet, Prieſt,</hi> and <hi>King.</hi> Theſe three <hi>Offices</hi> met all in one man at the beginning, as in <hi>Adam</hi> to be ſure, he was all theſe to his Family; after<g ref="char:EOLhyphen"/>wards, they were ſevered, and diſtributed into ſeveral perſons; one a <hi>Prophet,</hi> an<g ref="char:EOLhyphen"/>other a <hi>Prieſt,</hi> another a <hi>King:</hi> Sometimes <hi>two of them</hi> met in one perſon, a <hi>Prieſt</hi> &amp; a <hi>King,</hi> as <hi>Melchiſedeck;</hi> a <hi>Pro<g ref="char:EOLhyphen"/>phet</hi> and a <hi>Prieſt,</hi> as <hi>Samuel;</hi> a <hi>Prophet</hi> and a <hi>King</hi> as <hi>David;</hi> But they never met all in one perſon, till <hi>Chriſt</hi> the <hi>Second Adam</hi> was <hi>anointed above his fellowes,</hi> and reco<g ref="char:EOLhyphen"/>vered that which the firſt <hi>Adam</hi> loſt. And this <hi>Oynt<g ref="char:EOLhyphen"/>ment,</hi>
+               <pb n="21" facs="tcp:59451:23"/> deſcended to the skirts of his garments, the mean<g ref="char:EOLhyphen"/>eſt of his <hi>Members;</hi> but eſpe<g ref="char:EOLhyphen"/>cially to <hi>Houſhlders,</hi> as their <hi>primitive</hi> right, to be in one perſon, a <hi>Prophet,</hi> a <hi>Prieſt</hi> and a <hi>King</hi> to his <hi>Fa<g ref="char:EOLhyphen"/>mily;</hi> Touch but the parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p n="1">1. A <hi>Prophet,</hi>
+               <note place="margin">1. <hi>A</hi> Pro<g ref="char:EOLhyphen"/>phet.</note> to teach and <hi>inſtruct</hi> his Houſhold, <hi>Deut.</hi> 6.6. <hi>Thou ſhalt diligently teach them,</hi> &amp;c. <hi>Eph.</hi> 6.6. Every Houſholder, is a <hi>Prea<g ref="char:EOLhyphen"/>cher</hi> to his own family, a <hi>Miniſter</hi> in a ſenſe, to read and expound with <hi>modeſty,</hi> the word of God, to <hi>Cate<g ref="char:EOLhyphen"/>chiſe</hi> and inſtruct his wife, children ſervants.</p>
+            <p n="2">2. A <hi>Prieſt,</hi>
+               <note place="margin">2 <hi>A</hi> Prieſt<g ref="char:punc">▪</g>
+               </note> to off<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <hi>Sa<g ref="char:EOLhyphen"/>crifice</hi> for them, and with them as <hi>Job</hi> did for his: Both <hi>propitiatory</hi> ſacrifice (after a ſort) that is, <hi>pray<g ref="char:EOLhyphen"/>ing</hi> for pardon of their ſins,
+<pb n="22" facs="tcp:59451:24"/> and for grace; and Peace-offerings, or <hi>Euchariſtical</hi> Sacrifices, of <hi>Praiſes</hi> and <hi>Thanksgiving,</hi> for them and with them, as for himſelfe. 1 <hi>Pet.</hi> 2.9. <hi>Ye are a royal Prieſt-hood that ye should shew forth the praiſes of him,</hi>
+               <note place="margin">Heb. 13.15.</note> 
+               <hi>who hath called you out of darkneſſe, into his marvelous light.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">3. A King.</note>3. A <hi>King</hi> to rule and <hi>command</hi> (as well as to <hi>pro<g ref="char:EOLhyphen"/>tect</hi>) his family. <hi>Abraham</hi> will command his Houſ<g ref="char:EOLhyphen"/>hold, <hi>&amp;c.</hi> And the <hi>Coercive</hi> and correcting power over his family, argues his au<g ref="char:EOLhyphen"/>thority to be <hi>King-like.</hi> The very <hi>Heathens</hi> acknow<g ref="char:EOLhyphen"/>ledged this truth by the light of Nature, <hi>Eph.</hi> 1. laſt. <hi>That every man should beare rule in his own houſe.</hi> It is ſpoken with reſpect to the <hi>Wife;</hi> but will much more
+<pb n="23" facs="tcp:59451:24"/> extend to <hi>children</hi> and <hi>ſer<g ref="char:EOLhyphen"/>vants:</hi> There is a kinde of <hi>Civil judicature</hi> erected in the Family, a power to <hi>ex<g ref="char:EOLhyphen"/>amine, try, cenſure, punish,</hi> and <hi>eject</hi> offenders, <hi>Gen.</hi> 21.10. <hi>Caſt out the Bondwoman with her ſonne.</hi> And this <hi>houshold diſcipline David</hi> reſolves to exerciſe in his houſe, <hi>Pſal.</hi> 101. either to <hi>keep</hi> out, or <hi>caſt</hi> out ſuch as are wicked and incorrigible: This of the ſecond Reaſon.</p>
+            <p n="3">3. <hi>Every chief housholder hath Curam animarum,</hi>
+               <note place="margin">3. He hath the cure of ſouls.</note> the charge of the ſouls of his family (not properly <hi>paſtoral,</hi> but very like it.) He muſt give an <hi>account</hi> of the ſoules, of his <hi>Wife, Children, Servants,</hi> as well as the <hi>Magiſtrate</hi> of the ſouls of his Subjects, <hi>Ezek.</hi> 34.10. or the <hi>Miniſter</hi> of the ſoules of his people, <hi>Ezek.</hi> 2.18. It concerns him
+<pb n="24" facs="tcp:59451:25"/> therefore very nearely to endeavour to make them <hi>Religious,</hi> which is the onely way to ſave their ſoules.</p>
+            <p n="4">
+               <note place="margin">4. His houſe is a leſſer Church.</note>4. Every <hi>Chriſtians houſe,</hi> ſhould be a leſſer <hi>Church;</hi> as the <hi>Church</hi> is called the <hi>Houſe</hi> of God. Hence we read <hi>of a Church in a houſe. Rom.</hi> 16.5. <hi>The Church which is in the houſe of</hi> Aquila <hi>and</hi> Priſcila: <hi>Philem.</hi> ver. 2. <hi>The Church in thy houſe:</hi> Whether it were, becauſe the <hi>Congregation</hi> did aſſemble in their houſes (having at that time no publick <hi>place</hi> of meeting) or that in their houſes there were enough to make a <hi>lit<g ref="char:EOLhyphen"/>tle Church</hi> (as ſome limite the number at leſt to ſeven) or whether their houſes were ſo <hi>ordered for Religion,</hi> that they ſeem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to be <hi>leſser</hi> Churches: it is not material to inquire. Of that famous
+<pb n="25" facs="tcp:59451:25"/> 
+               <hi>Emperours</hi> houſe <hi>Conſtan<g ref="char:EOLhyphen"/>tine,</hi> it is reported by <hi>Euſe<g ref="char:EOLhyphen"/>bius,</hi> that the <hi>exerciſes</hi> of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> were ſo ordered in it, that it differed little from a <hi>Church;</hi> There were <hi>Prayers</hi> morning and evening, <hi>rea<g ref="char:EOLhyphen"/>ding</hi> of the word, <hi>Catechi<g ref="char:EOLhyphen"/>ſing, Singing</hi> of Pſalmes (all but <hi>Sacraments</hi> and <hi>Prea<g ref="char:EOLhyphen"/>ching</hi>) as in the <hi>Church:</hi> And to uſe St. <hi>Chryſoſtomes</hi> words, <hi>Where there are (in a houſe) Prayers, and Singing of Pſalmes,</hi>
+               <note place="margin">Tom. 1. pag. 6.11. l. 19. &amp;c, in Pſal. 41.</note> 
+               <hi>and reading of the Prophets,</hi> &amp;c. <hi>a man ſhould not much miſtake, in calling ſuch a meeting or aſſembly a Church.</hi> And this ſervice of God in the family, he calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>a good Liturgie,</hi> &amp; worſhip of God. And beſides there is, or ſhould be exerciſed a <hi>Church-like Diſcipline,</hi> even a <hi>leſser Excommunication</hi> of re<g ref="char:EOLhyphen"/>fractorie
+<pb n="26" facs="tcp:59451:26"/> offenders; as <hi>Da<g ref="char:EOLhyphen"/>vid</hi> profeſſes he would deal with wicked, proud, deceit<g ref="char:EOLhyphen"/>full, lying ſervants. <hi>Pſal.</hi> 101. If by <hi>inſtruction, admo<g ref="char:EOLhyphen"/>nition, correction</hi> he could not reclaim them, he would <hi>Excommunicate</hi> &amp; caſt them out of the <hi>Church,</hi> in his houſe. This may ſuffice for <hi>confirmation</hi> of the point.</p>
+            <p>
+               <note place="margin">2 Applied.</note>We now come to the <hi>Application</hi> of all, by Uſes and Inferences therefrom.</p>
+            <p n="1">
+               <note place="margin">1 To check the raſhneſſe of young people.</note>1. To conſider and <hi>bewaile</hi> the <hi>raſhneſſe</hi> of many young ones, who ruſh upon <hi>Family</hi> Relations, and never know or weigh how fit, or unfit they are to diſcharge the <hi>Duties</hi> of thoſe Rela<g ref="char:EOLhyphen"/>tions. They muſt be <hi>mar<g ref="char:EOLhyphen"/>ried</hi> forſooth, in all the haſt; there's one Relation; then come <hi>children</hi> (perhaps before the lawful time)
+<pb n="27" facs="tcp:59451:26"/> there's another: And then <hi>ſervants</hi> muſt be had, to at<g ref="char:EOLhyphen"/>tend them and theirs: that's a third Relation; but know not what the duties of any of thoſe relations are, nor the charge of thoſe ſouls, under their Inſpection. While a man is ſingle, he hath care (almoſt) of none, but his own ſoul; and much liberty to ſtudy how <hi>to ſerve and pleaſe God,</hi> 1 <hi>Cor.</hi> 7.34. But when once he hath a family, made up of theſe three relations, his <hi>duties</hi> are multiplied with them, and now he muſt take care of the <hi>Soules</hi> of wife, children, ſervants: and yet ſcarce knows how to take care of his own ſoul. Lit<g ref="char:EOLhyphen"/>tle do they conſider, that the <hi>chief houſholder</hi> muſt be a <hi>Prophet</hi> to teach, a <hi>Prieſt</hi> to pray with and for, a <hi>King</hi> to
+<pb n="28" facs="tcp:59451:27"/> rule his own family: when they cannot teach, pray, or rule themſelves. Let this conſideration check and coole the heat, and heady raſhneſſe of younger peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="2">
+               <note place="margin">2 It ſhews the ini<g ref="char:EOLhyphen"/>quity of Tolera<g ref="char:EOLhyphen"/>tion.</note>2. This may ſerve to diſ<g ref="char:EOLhyphen"/>cover the <hi>iniquity</hi> of that ſo much cal'd for curſed <hi>Tole<g ref="char:EOLhyphen"/>ration</hi> of all Religions; falſ<g ref="char:EOLhyphen"/>ly called <hi>Liberty</hi> of Con<g ref="char:EOLhyphen"/>ſcience. The <hi>miſchiefes</hi> of it are ſo many, and ſo great, that they cannot be afore<g ref="char:EOLhyphen"/>hand imagined; Beſides the publick, <hi>diſturbance</hi> of the peace, by different <hi>fractions</hi> and factions, <hi>&amp;c.</hi> The natural, or unnatural <hi>con<g ref="char:EOLhyphen"/>ſequences</hi> of ſuch a <hi>Toleration;</hi> the <hi>diviſions</hi> in families will be as many almoſt, as there are <hi>perſons;</hi> and the wiſeſt <hi>Housholder</hi> cannot poſſibly redreſſe it. But the maine
+<pb n="29" facs="tcp:59451:27"/> is this; that it will prove impoſſible for the moſt pi<g ref="char:EOLhyphen"/>ous Houſholder to do his duty, in making his <hi>Family</hi> Religious, and to <hi>ſerve</hi> God with him, in all his rela<g ref="char:EOLhyphen"/>tions, when as he hath no <hi>coercive</hi> power to reſolve with <hi>Joſhua, I and my houſe will ſerve the Lord.</hi> Suppoſe (which experience daily confirmes to be true) The <hi>Houſholder</hi> be a godly, zea<g ref="char:EOLhyphen"/>lous Proteſtant, his <hi>Wife</hi> an Independent, the children <hi>Anabaptiſts,</hi> ſome one or more of the ſervants <hi>Papiſts, &amp;c.</hi> How is it poſſible the Superiour ſhould unite all theſe into a <hi>Church</hi> in his houſe, to ſerve God, if a <hi>toleration</hi> for all Religions be granted? Some will pre<g ref="char:EOLhyphen"/>tend they goe to ſerve God in their own way, and aſ<g ref="char:EOLhyphen"/>ſemblies; and perhaps goe
+<pb n="30" facs="tcp:59451:28"/> to ſerve the <hi>Devil,</hi> in the <hi>Stewes</hi> or <hi>Taverne.</hi> How ſhall the <hi>Houſholder</hi> joyne with his <hi>family,</hi> wife, child<g ref="char:EOLhyphen"/>ren, ſervants, in <hi>prayers, rea<g ref="char:EOLhyphen"/>ding, hearing, Sacraments,</hi> &amp; ſanctification of the <hi>Sab<g ref="char:EOLhyphen"/>bath</hi> by all together, (which is charged upon him in the fourth Commandement) when they not onely deteſt his way of ſerving God, but his prayers, reading, Sab<g ref="char:EOLhyphen"/>baths, <hi>&amp;c.</hi> and perhaps him<g ref="char:EOLhyphen"/>ſelfe? different <hi>affections</hi> commonly ariſing from differing opinions and judgements: Let the wiſe conſider it.</p>
+            <p n="3">
+               <note place="margin">3 Com<g ref="char:EOLhyphen"/>plaint of many Houſhol<g ref="char:EOLhyphen"/>ders.</note>3. Here's matter of juſt <hi>complaint</hi> of many, of moſt <hi>Houſholders;</hi> who are diſ<g ref="char:EOLhyphen"/>covered to be little <hi>Religious</hi> themſelves, by the <hi>profane<g ref="char:EOLhyphen"/>neſse,</hi> and looſneſſe of their <hi>Family;</hi> wives, children,
+<pb n="31" facs="tcp:59451:28"/> ſervants. In that place a<g ref="char:EOLhyphen"/>fore cited, <hi>Deut.</hi> 6.6, 7. its made a ſign of a man, that is godly and <hi>religious,</hi> that hath Gods words in his heart, that he endeavours to make his <hi>family</hi> ſuch. <hi>Theſe words that I command thee ſhall be in thine heart: And thou ſhalt teach them to thy children, &amp;c.</hi> Contrarily, <hi>ignorance</hi> of God, and <hi>irre<g ref="char:EOLhyphen"/>ligion</hi> in their families, are joyn'd together, <hi>Jer.</hi> 10.25. and both of them <hi>Characters</hi> of a nation or <hi>family</hi> lying under the wrath of God, and ſubject to his curſe and deſtruction; <hi>Pour out thy fury upon the Heathen that know thee not, and upon the families that call not on thy Name.</hi> Much complaining there is every where, of the <hi>badneſse</hi> of ſervants, children, wives, as if they were <hi>corrupted</hi> a<g ref="char:EOLhyphen"/>broad;
+<pb n="32" facs="tcp:59451:29"/> when the truth is, they are either <hi>corrupted,</hi> or neglected at home, for want of <hi>inſtruction,</hi> or houſhold <hi>diſcipline,</hi> or good <hi>example</hi> of the chief and <hi>Head</hi> of the family. This might be ex<g ref="char:EOLhyphen"/>emplified in all the <hi>Relations</hi> of the family; and in all the <hi>Services</hi> of God required in the family, to be exerciſed by the <hi>Maſter</hi> of the houſe<g ref="char:punc">▪</g> How much <hi>ignorance</hi> of God and his word in moſt fami<g ref="char:EOLhyphen"/>lies?<note place="margin">For neg<g ref="char:EOLhyphen"/>lect of</note> How much <hi>looſneſſe,</hi> profaneneſſe, wickedneſſe, in children, ſervants, wives? Take but the reaſon of all in a word, it is becauſe there is no <hi>care</hi> of the ſervice of God, in the family, by the <hi>Chief</hi> of the family. Look but upon the particular ſer<g ref="char:EOLhyphen"/>vices:</p>
+            <p n="1">
+               <note place="margin">1 Morning and eve<g ref="char:EOLhyphen"/>ning pra<g ref="char:EOLhyphen"/>yers in the family.</note>1. A conſtant courſe of <hi>Morning</hi> &amp; <hi>Evening Prayers,</hi>
+               <pb n="33" facs="tcp:59451:29"/> is one principle part of the ſervice of God in the family, which is evinced by this one argument (becauſe ſome deny the neceſſity of it, and call for Scripture for it) to omit others; <hi>Becauſe it being God that hath placed men in a Community (ſetting the ſolitary in families, Pſal.</hi> 68.6.) <hi>it cannot be juſtly conceived, he did this meerly for their worldly conveniences; but rather that they ſhould im<g ref="char:EOLhyphen"/>prove their Society to his glory, who is the Lord of them alto<g ref="char:EOLhyphen"/>gether, as well as of every one ſingle; ſo to worſhip him joyntly, as well as of every one ſolitarily and apart, Zach.</hi> 12. And as <hi>Congregations</hi> or publick Aſſemblies, are appointed purpoſely for the more <hi>ſolemne worſhip</hi> of God, by all ſeveral families: So are <hi>families</hi> for a joynt and <hi>leſse
+<pb n="34" facs="tcp:59451:30"/> ſolemne</hi> worſhip of God, by all the ſingle perſons there<g ref="char:EOLhyphen"/>of together. And indeed, how hath the <hi>family</hi> that knowledge of God, to be 1. Their great <hi>Lord</hi> and <hi>Maſter.</hi> 2, The <hi>Author</hi> of their peace among them<g ref="char:EOLhyphen"/>ſelves;<note place="margin">Pſal.</note> 
+               <hi>He maketh men to be of one minde in an houſe,</hi> that the <hi>Governour</hi> is gentle to his inferiours, and they du<g ref="char:EOLhyphen"/>tiful to him. 3. The Au<g ref="char:EOLhyphen"/>thor of all <hi>bleſſings</hi> to them all; of health and ſtrength to follow their labours, and of ſucceſſe and comfort in them; if they agree not to<g ref="char:EOLhyphen"/>gether to joyne in worſhip of that their Lord, and in tendering <hi>Prayers</hi> and <hi>Prai<g ref="char:EOLhyphen"/>ſes,</hi> for ſuch things as they expect and receive from him? But now how viſible, how common is the <hi>neglect</hi> of this ſervice of God?
+<pb n="35" facs="tcp:59451:30"/> How many, or rather how few families are there that keep this courſe? How ma<g ref="char:EOLhyphen"/>ny goe to bed like their <hi>Swine,</hi> and riſe again like their <hi>Dog,</hi> without ever cal<g ref="char:EOLhyphen"/>ling upon Gods Name? to give <hi>thanks</hi> for mercies re<g ref="char:EOLhyphen"/>ceived, or <hi>pray</hi> for what they want? The very <hi>Lords Prayer</hi> (which runs in the plural) implyes this a day<g ref="char:EOLhyphen"/>ly duty of every man, and being a ſociety, it requires it of all together that can meet; to ſay, <hi>Our Father,</hi> &amp;c. and thine is the King<g ref="char:EOLhyphen"/>dome, &amp;c. The <hi>Houſe</hi> is a little <hi>Church,</hi> and ſo may be called an <hi>Houſe</hi> of Prayer.</p>
+            <p n="2">2. <hi>Reading</hi> and <hi>hearing</hi> of the word,<note place="margin">2 Reading and hear<g ref="char:EOLhyphen"/>ing of the word.</note> is another commanded ſervice, as by every perſon ſingle, ſo by all together in the <hi>family:</hi> It concerns the Maſter of the
+<pb n="36" facs="tcp:59451:31"/> family to ſee this done, <hi>Deut.</hi> 11.18. &amp;c. is expreſſed for this, to make the Scrip<g ref="char:EOLhyphen"/>tures known to their houſ<g ref="char:EOLhyphen"/>hold; <hi>ſpeaking</hi> of it to them, <hi>writing</hi> it upon the poſts and gates, and <hi>reading</hi> of it is now the readieſt way. But now, how many <hi>Families</hi> have not <hi>one Chapter</hi> read from years end, to years end, at leaſt from <hi>Sabbath</hi> to Sabbath? How ſhall they underſtand the <hi>word</hi> in publick,<note place="margin">Col. 3.16.</note> that are not ac<g ref="char:EOLhyphen"/>quainted with it in private? The Apoſtle commands, <hi>Let the word of Chriſt dwell in you richly in all wiſdome, teaching and admoniſhing one another,</hi> &amp;c. And it was the commendation of <hi>Timothius</hi> Parents that <hi>he knew he holy Scripturs from a child; which onely are able to make a man wiſe to ſalvation.</hi> In many
+<pb n="37" facs="tcp:59451:31"/> families, and they great ones, we may finde <hi>Play-Books,</hi> and <hi>amorous</hi> lacivious diſcourſes frequently read; but rarely a Chapter of the Bible, all the week long: Is it any wonder then, that wives, children, ſervants, are ſo bad?</p>
+            <p n="3">3. <hi>Catechiſing</hi> and in<g ref="char:EOLhyphen"/>ſtructing of thoſe under their charge,<note place="margin">3 Cate<g ref="char:EOLhyphen"/>chiſing.</note> is another <hi>Ser<g ref="char:EOLhyphen"/>vice</hi> of God,<note place="margin">
+                  <hi>Deut. 6.6.</hi> Thou ſhalt whet them upon thy Children, <hi>&amp;c.</hi> or ſharpen them by often re<g ref="char:EOLhyphen"/>peating.</note> and the beſt meanes to work knowledge of God and his ſervice in the hearts of inferiours: <hi>Traine up a childe (and ſervant) in the trade of his youth, and when he is old, he ſhall not depart from it.</hi> Thus did <hi>David</hi> drop Religion into <hi>Solomon,</hi> while a childe, <hi>Pro.</hi> 4.3, 4. and ſo did his mother <hi>Bathſheba, Pro.</hi> 31.1, 2. <hi>&amp;c. Timothies</hi> did the like, 2 <hi>Tim.</hi> 2. But how is
+<pb n="38" facs="tcp:59451:32"/> this every where neglected? Few children or ſervants are taught the <hi>Catechiſme,</hi> the firſt principles of Reli<g ref="char:EOLhyphen"/>gion? Hence the <hi>unprofi<g ref="char:EOLhyphen"/>tableneſſe</hi> under the beſt pub<g ref="char:EOLhyphen"/>lick preaching: Hence ſo many are <hi>ſeduced</hi> into ſo many groſſe errors, and he<g ref="char:EOLhyphen"/>reſies, and profaneſſe.</p>
+            <p n="4">
+               <note place="margin">4 Singing of Pſalms.</note>4. <hi>Singing of Pſalmes</hi> is another ſervice of God in the family, as well as in the publick: See <hi>Col.</hi> 3.16. <hi>Teaching and admoniſhing one another, with Pſalmes, and Hymnes, and ſpiritual Songs, making melody in your hearts to God.</hi> We heare <hi>Ballads,</hi> and <hi>Jigs,</hi> and filthy <hi>Songs,</hi> ſung in families; but not a Pſalme all the year long.</p>
+            <p n="5">5. <hi>Grace</hi> before and after meales,<note place="margin">5 Grace at meales.</note> is a part of <hi>Prayer</hi> and <hi>Praiſes,</hi> due to God; but ſhamefully neglected in fa<g ref="char:EOLhyphen"/>milies,
+<pb n="39" facs="tcp:59451:32"/> or but a meer forma<g ref="char:EOLhyphen"/>lity, if uſed, without any reverence. Is it any won<g ref="char:EOLhyphen"/>der <hi>children,</hi> ſervants, be ſo bad to them, when they are ſo bad to God? that they do as the children of Iſrael did, <hi>Sit down to eat and drink, and riſe up to play:</hi> and that play was <hi>Idolatry.</hi> Our bleſſed Saviour himſelfe ne<g ref="char:EOLhyphen"/>ver eat himſelfe, or fed others at his Table, but he <hi>bleſsed</hi> and gave thanks, <hi>Mark.</hi> 8.6, 7. &amp; the Apoſtle <hi>Paul</hi> amongſt Heathens ob<g ref="char:EOLhyphen"/>ſerved the ſame, <hi>Acts</hi> 27.35. And the ſame Apoſtle, ſpea<g ref="char:EOLhyphen"/>king of meats particulary; <hi>God hath created them to be received with thanksgiving, of them which believe &amp; know the truth: For every creature of God, is good if it be received with thanksgiving; For it is ſanctified by the word of God,
+<pb n="40" facs="tcp:59451:33"/> and prayer,</hi> 1 <hi>Tim.</hi> 4.3, 4, 5. As if it were not good, if not ſanctified by prayer and thankſgiving; but may prove a <hi>Serpent,</hi> even a <hi>poyſon</hi> to ſoul or body: And the neglect hereof argues (in the Apoſtles Logick) that ſuch perſons, neither believe, nor know the truth. Let them con<g ref="char:EOLhyphen"/>ſider it.</p>
+            <p n="6">
+               <note place="margin">6 Sancti<g ref="char:EOLhyphen"/>fication of the Sab<g ref="char:EOLhyphen"/>bath.</note>6. Laſtly, <hi>Sanctification</hi> of the Sabbath, by the whole family, in all or moſt of the duties aforeſaid, <hi>publickly</hi> and <hi>privately,</hi> is the care of the chief houſholder; as in the fourth Commandment: <hi>Remember thou keep holy the Sabbath day: Thou Maſter, and thy ſonne and daughter, manſervant and maidſer<g ref="char:EOLhyphen"/>vant.</hi> What need ſo par<g ref="char:EOLhyphen"/>ticular enumeration, if there were not a great weight in
+<pb n="41" facs="tcp:59451:33"/> the performance thereof? But where ſhall we finde the family that doth all this? when the <hi>Housholders</hi> them<g ref="char:EOLhyphen"/>ſelves <hi>neglect</hi> or <hi>profane</hi> it by their own example; and <hi>imploy</hi> their children and ſervants in <hi>buſineſſes,</hi> to keep them from the publick Congregation, or leave them to come or goe at their own pleaſure; or to <hi>ſpend</hi> the day in <hi>Idelneſſe or Sports</hi> &amp; paſtimes, that day; How can theſe men ſay tru<g ref="char:EOLhyphen"/>ly, <hi>I and my houſe, we will ſerve the Lord?</hi> I ſhall onely ſay more truely, what once was <hi>falſly</hi> applied to our <hi>Saviour; This man is not of God, becauſe he keepeth not the Sabbath day:</hi> becauſe he takes no <hi>care,</hi> that his <hi>fami<g ref="char:EOLhyphen"/>ly</hi> with him, do keep the <hi>Sahbath</hi> day. And thus much of the third Uſe.</p>
+            <p n="4">
+               <pb n="42" facs="tcp:59451:34"/>
+               <note place="margin">4. Exhor<g ref="char:EOLhyphen"/>tations to the duty; where,</note>4. The laſt is a word of <hi>Exhortation,</hi> to ſet on this duty, upon all <hi>Chiefe Houſholders,</hi> in all their <hi>Re<g ref="char:EOLhyphen"/>lations,</hi> to reſolve with <hi>Joſh<g ref="char:EOLhyphen"/>ua,</hi> (what ever others doe) <hi>As for me and my houſe, we will ſerve the Lord.</hi> To per<g ref="char:EOLhyphen"/>ſwade them more effectual<g ref="char:EOLhyphen"/>ly to the <hi>performance</hi> hereof, I ſhall propound ſome more ſpecial <hi>Motives,</hi> and then preſcribe ſome <hi>Directions</hi> or meanes, how they may effect it,</p>
+            <p n="1">
+               <note place="margin">1 The Mo<g ref="char:EOLhyphen"/>tives from the Good.</note>1. The Motives (beſides thoſe Reaſons uſed in the Doctrinal part) which ſhould be ſufficient to per<g ref="char:EOLhyphen"/>ſwade any Chriſtian) I ſhall adde theſe which ſhall have reſpect, 1. To the family. 2. To the publick. 3. To themſelves.</p>
+            <p n="1">
+               <note place="margin">1 To the Family.</note>1. To the <hi>Family;</hi> It is the greateſt <hi>Good</hi> they can
+<pb n="43" facs="tcp:59451:34"/> doe to them, to make them <hi>Religious:</hi> To provide an <hi>Eſtate,</hi> or inheritance for children; meat, drink and wages for ſervants is no more than <hi>Turks</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens</hi> doe. What ſingular thing is this? yea, they provide meat and drink for their <hi>beaſts,</hi> and no more for their families ſoules? to leave them intereſted in the <hi>Covenant</hi> of grace, under the <hi>favour,</hi> bleſſing &amp; protection of God, when they are gone hence; this is the <hi>choiſeſt,</hi> and chiefeſt good, and for this they will bleſſe God for them, for ever.</p>
+            <p n="2">2. To the <hi>publick,</hi>
+               <note place="margin">2 To the publick.</note> in Towns, Countries, Church, Nation, which are all made up of families, as <hi>fa<g ref="char:EOLhyphen"/>milies</hi> of ſingle perſons: To make the family good and Religious, makes <hi>good Ma<g ref="char:EOLhyphen"/>giſtrates,
+<pb n="44" facs="tcp:59451:35"/> good Subjects, good Husbands,</hi> good <hi>Wives,</hi> good <hi>Maſters,</hi> good <hi>Servants</hi> good <hi>Neighbours;</hi> when any of the family ſwarmes, as I may ſo ſay, into other So<g ref="char:EOLhyphen"/>cieties; The <hi>Town, Country, Kingdome,</hi> is bettered and bleſſed by ſuch: <hi>He</hi> or <hi>She,</hi> will never be good <hi>neigh<g ref="char:EOLhyphen"/>bours,</hi> Subjects, &amp;c. that were not good in their <hi>Fa<g ref="char:EOLhyphen"/>mily Relations:</hi> He will ne<g ref="char:EOLhyphen"/>ver be good <hi>Father,</hi> that was not a good childe; nor ſhe a good <hi>Mother,</hi> that was not a good daughter: nor he good <hi>Maſter,</hi> that was a naughty ſervant; and ſo of the reſt. <hi>Abſolom</hi> who was a <hi>rebellious</hi> childe, proved a <hi>traiterous</hi> Subject: <hi>Hophin</hi> and <hi>Phineas,</hi> that were <hi>diſo<g ref="char:EOLhyphen"/>bedient</hi> children, proved <hi>ſacrilegious</hi> Prieſts, &amp;c. There is a ſaying of the <hi>Philoſo<g ref="char:EOLhyphen"/>phers;
+<pb n="45" facs="tcp:59451:35"/> Mulus vir, bonus ci<g ref="char:EOLhyphen"/>vis: An ill man, may be a good Citizen;</hi> But <hi>Divinity</hi> ſayes, <hi>An ill man, can no more be a good Citizen, or neigh<g ref="char:EOLhyphen"/>bour, then evil can be good.</hi> The want therefore of <hi>fa<g ref="char:EOLhyphen"/>mily</hi> Reformation is the cauſe of all the <hi>miſcarriges</hi> abroad, in <hi>Townes, Churches, Country, Nation:</hi> Hence come all thoſe <hi>diſorders</hi> in Townes &amp; Nations, <hi>Drunk<g ref="char:EOLhyphen"/>enneſse, <g ref="char:V">Ʋ</g>ncleanneſſe, Profan<g ref="char:EOLhyphen"/>neſſe,</hi> &amp;c. from want of <hi>diſ<g ref="char:EOLhyphen"/>cipline</hi> in families. This fills the <hi>Goales,</hi> and <hi>furnishes</hi> the Gallows: Be the <hi>Lawes,</hi> Orders, in Cities, Churches, never ſo good; yet all in vain, if <hi>Maſters</hi> of families neglect their duties. Much <hi>complaint</hi> there is of the ge<g ref="char:EOLhyphen"/>neral <hi>badneſſe</hi> of the times, but they may thank them<g ref="char:EOLhyphen"/>ſelves: And as for the
+<pb n="46" facs="tcp:59451:36"/> Church or Congregation; the long deſired, and by ſome much endeavoured Reformation, ſticks here: The want of this <hi>Reſolution</hi> in Maſters of families, <hi>I and my houſe will ſerve the Lord:</hi> makes all the <hi>Miniſters</hi> labours unfruitful. It's im<g ref="char:EOLhyphen"/>poſſible a <hi>Miniſter</hi> ſhould teach, inſtruct, and make a Town, or Congregation <hi>Religious,</hi> unleſſe aſſiſted by the <hi>Governours</hi> of houſes. If their <hi>Houſholds</hi> be not <hi>taught</hi> the Principles of Re<g ref="char:EOLhyphen"/>ligion at home, <hi>acquainted</hi> with the word, by private reading; <hi>brought</hi> to attend on, and call'd to <hi>account</hi> for publick Ordinances, all our <hi>labour</hi> comes to nothing. As then the <hi>Houſholders</hi> in<g ref="char:EOLhyphen"/>tend the <hi>Publick good</hi> of State and Church, let them reſolve, I and my houſe, <hi>&amp;c.</hi>
+               <pb n="47" facs="tcp:59451:36"/> See <hi>Pſal.</hi> 101. laſt, this mend all.</p>
+            <p n="3">3. To <hi>themſelves;</hi>
+               <note place="margin">3. To them<g ref="char:EOLhyphen"/>ſelves: it is</note> if the other prevaile not, <hi>ſelf-love</hi> ſhould. It is for their own <hi>greateſt good,</hi> and that two wayes.</p>
+            <p n="1">1. The <hi>way</hi> to make them <hi>faithful,</hi> diligent, profitable to themſelves,<note place="margin">1 For their pro<g ref="char:EOLhyphen"/>fit.</note> is to make them truly religious. Now, <hi>Wives,</hi> children, ſervants, obey them for <hi>Conſcience</hi> ſake, towards God. <hi>One<g ref="char:EOLhyphen"/>ſimus,</hi> while unregenerate, was <hi>unprofitable</hi> to his Ma<g ref="char:EOLhyphen"/>ſter <hi>Philemon;</hi> a purloyner (it ſeems) and a runaway; But <hi>Paul</hi> having converted him, ſends him home, now <hi>profitable.</hi> Ungodly and profane ſervants, are com<g ref="char:EOLhyphen"/>monly idle, deceitful, at beſt but <hi>Eye-ſervants;</hi> and bring a <hi>curſe</hi> upon the whole family. But <hi>religi<g ref="char:EOLhyphen"/>ous</hi>
+               <pb facs="tcp:59451:37"/> ſervants, if truly ſo, prove <hi>faithful,</hi> you may truſt them with any thing, with all you have (as <hi>Po<g ref="char:EOLhyphen"/>tiphar</hi> did <hi>Joſeph,</hi> and <hi>Laban</hi> did <hi>Jacob</hi>) and they dare not be falſe: And <hi>diligent</hi> in their labours, becauſe they ſet themſelves alwayes un<g ref="char:EOLhyphen"/>der the <hi>eye</hi> of God; and when their <hi>Maſters</hi> eye is far off them, they <hi>ſee him that is inviſible:</hi> But above all, they are <hi>Prayerful,</hi> mor<g ref="char:EOLhyphen"/>ning, evening, and at all times, and ſo procure a <hi>bleſ<g ref="char:EOLhyphen"/>ſing</hi> on their labours, upon eſtate, children, buſineſſes intruſted with them. See an inſtance in <hi>Abrahams</hi> ſer<g ref="char:EOLhyphen"/>vants, <hi>Gen.</hi> 24.12. his <hi>prayer</hi> for ſucceſſe of his journey, and buſineſſe, and <hi>ver.</hi> 33. his <hi>faithfulneſſe,</hi> and dili<g ref="char:EOLhyphen"/>gence, not eat till know the iſſue. They then are ene<g ref="char:EOLhyphen"/>mies
+<pb n="49" facs="tcp:59451:37"/> to their own profit, that endeavour not to make their families good.</p>
+            <p n="2">2, This is for their <hi>com<g ref="char:EOLhyphen"/>fort,</hi>
+               <note place="margin">
+                  <hi>2</hi> For their comfort.</note> living or dying, when they ſhall ſee their <hi>care</hi> and <hi>labour</hi> ſucceed and bleſſed by God, with <hi>grace</hi> and <hi>ho<g ref="char:EOLhyphen"/>lineſs</hi> in their families: what <hi>joy</hi> and <hi>comfort</hi> will this be, to have been <hi>inſtrumental</hi> to their ſalvation? <hi>I have</hi> (ſaith he) <hi>no greater joy than this, to ſee my children walk<g ref="char:EOLhyphen"/>ing in the truth:</hi> A <hi>wiſe ſon</hi> maketh a glad father: but a fooliſh one is an <hi>heavineſſe</hi> and ſhame to his mother: So is a wiſe and religious <hi>ſervant,</hi> no leſſe <hi>honour</hi> than <hi>comfort</hi> to his Maſter. If it ſucceed not, yet a <hi>comfort</hi> to hem, that they have done their duty. Though it be a <hi>grief</hi> to ſee no fruits of their travel, yet much more
+<pb n="50" facs="tcp:59451:38"/> when conſcious of their neglect of their ſoules: In hell nothing more tormen<g ref="char:EOLhyphen"/>ting, than for not having done their <hi>duty,</hi> to help them to ſalvation, by <hi>in<g ref="char:EOLhyphen"/>ſtruction, admonition, correcti<g ref="char:EOLhyphen"/>on:</hi> but rather to further their damnation, by <hi>wicked examples,</hi> and ſo to be filled with their <hi>curſes,</hi> as ſoul-murderers. Let all theſe things bee conſidered. I might remember them of the <hi>famous examples</hi> of ſuch <hi>Houſholders,</hi> as were careful to make their families <hi>Reli<g ref="char:EOLhyphen"/>gious,</hi> in Scripture and Sto<g ref="char:EOLhyphen"/>ries; thoſe afore named, <hi>Abraham, Jacob, David,</hi> &amp;c. And that of <hi>Conſtantine</hi> the Emperour, whoſe houſe was for Religion, like a Church: I ſhall give but one of later times, That of <hi>Lewes</hi> the ninth, King of <hi>France,</hi> who
+<pb n="51" facs="tcp:59451:38"/> was found inſtructing a poor kitchin boy; and being aſ<g ref="char:EOLhyphen"/>ked why he would doe ſo, ſaid, <hi>The meaneſt hath a ſoul as precious as my owne, and bought with the ſame blood of Chriſt.</hi> But I forbeare any more, and come to</p>
+            <p n="2">2. The <hi>Directions,</hi>
+               <note place="margin">2. The di<g ref="char:EOLhyphen"/>rections</note> or means how they may make their Families <hi>religious</hi> with themſelves.</p>
+            <p n="1">1. <hi>Begin at home,</hi>
+               <note place="margin">1. Begin at home.</note> and make themſelves <hi>examples</hi> to their Families, as <hi>Joſhua</hi> here obſerves the <hi>right or<g ref="char:EOLhyphen"/>der;</hi> I firſt, and then my houſe, ſhall ſerve the Lord: <hi>Inferiours</hi> look more at what <hi>Superiours</hi> doe, then what they <hi>ſay.</hi> The wickedneſſe of the <hi>Heathens,</hi> was from the lewdneſſe of their <hi>gods</hi> and <hi>goddeſſes,</hi> as the Poets deſcribed them. <hi>Jup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> a<g ref="char:EOLhyphen"/>dulterous, <hi>Venus</hi> a wanton,
+<pb n="52" facs="tcp:59451:39"/> 
+               <hi>Bacchus</hi> a revelling drun<g ref="char:EOLhyphen"/>kard, &amp;c. Who will care to be <hi>better</hi> then his God? what ſervant will be <hi>more religious</hi> than his Maſter? or <hi>maid</hi> than her Lady or Miſtreſſe? Nay, it is a <hi>ſhame</hi> to a <hi>Parent,</hi> or Maſter, to have his children, or ſer<g ref="char:EOLhyphen"/>vants <hi>better</hi> then himſelf: And this is the reaſon, why <hi>diſſolute</hi> and wicked <hi>Maſters</hi> will not endure <hi>religious</hi> ſervants becauſe their life is a <hi>real reproof; Solomons</hi> ex<g ref="char:EOLhyphen"/>perience tells us, <hi>When a Ruler (of Houſe, or Town, or Nation) hearkens to lyes, all his ſervants are wicked, Pro-</hi> 29.12. It's true in other <hi>vices</hi> of Superiours; when they are <hi>Drunkards, <g ref="char:V">Ʋ</g>nchaſt, Profane;</hi> their ſervants are ſo too, or will quickly be made ſuch. If you would have your <hi>families,</hi> in all
+<pb n="53" facs="tcp:59451:39"/> Relations religious and holy, be you holy in all manner of converſation: if you be wicked, its in vain to offer to make them good. It will be ſaid, <hi>Phyſi<g ref="char:EOLhyphen"/>tian</hi> heal thy ſelf. Nothing either <hi>ſilences,</hi> or <hi>duls</hi> the edg of <hi>inſtructions,</hi> reproofs, cor<g ref="char:EOLhyphen"/>rections more, then to hear; <hi>Thou that teacheſt another, teacheſt thou not thy ſelfe?</hi> Thou that ſayeſt thy <hi>Wife Childe, Servant</hi> ſhould not commit Adultery, be drunk, be a profaner of the Sabbath, lye, ſwear, &amp;c. doſt thou do all, or any of theſe things? As one candle cannot light another, if it ſelfe be out, ſo, nor ſhall an houſholder <hi>inform</hi> or in<g ref="char:EOLhyphen"/>flame his family with the love of God and godlineſs, if himſelfe want it; or <hi>re<g ref="char:EOLhyphen"/>forme</hi> thoſe that walk diſ<g ref="char:EOLhyphen"/>orderly,
+<pb facs="tcp:59451:40"/> if himſelfe need Reformation. <hi>Reformation</hi> never ſticks, but (as they ſay in fleying of a beaſt) at the Head. When one told <hi>Sigiſmund</hi> the Emperour; <hi>Let the Reformation begin from the</hi> Minorites) <hi>a kind of</hi> Fryars) No, ſayes he, <hi>if ever it be done, it muſt begin at the</hi> Majorites. We heard afore, when the <hi>chief Houſhol<g ref="char:EOLhyphen"/>der</hi> was converted &amp; believ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d all his houſe believed alſo.</p>
+            <p n="2">
+               <note place="margin">2. Look to the conſti<g ref="char:EOLhyphen"/>tution of the Fami<g ref="char:EOLhyphen"/>ly.</note>2. Look well to the <hi>con<g ref="char:EOLhyphen"/>ſtitution</hi> of your Families, (as ſome ſay of <hi>Churches,</hi> the houſe being to be a leſſer Church) that they be at leaſt <hi>viſible Saints,</hi> that is, <hi>appa<g ref="char:EOLhyphen"/>rently</hi> religious; though per<g ref="char:EOLhyphen"/>haps <hi>ſecret hypocrites.</hi> That is, look well when you firſt ſet up a family, whom you ad<g ref="char:EOLhyphen"/>mit into that ſociety: Eſpe<g ref="char:EOLhyphen"/>cially for a <hi>wife</hi> &amp; <hi>ſervants:</hi>
+               <pb facs="tcp:59451:40"/> (for <hi>Children</hi> cannot be choſen, but given, as a gift from God.) If in <hi>choice</hi> of a Wife, men look either onely, or chiefly at <hi>Beauty, Parentage, Portion;</hi> it mat<g ref="char:EOLhyphen"/>ters not for R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ligion; if they be vexed with an ill piece of <hi>Houſholdſtuffe,</hi> they may thank themſelves, and make the Reformation of the Family, very difficult, if not impoſſible. When the Husband ſhall call to prayers and the Wife to <hi>playing,</hi> Carding, Dice; what, hope of Reformation, or Religion there? When <hi>Mi<g ref="char:EOLhyphen"/>cal</hi> ſhall ſc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffe at <hi>Davids</hi> de<g ref="char:EOLhyphen"/>votion, what can be ex<g ref="char:EOLhyphen"/>pected that's good? Woe be to him that hath a <hi>Phili<g ref="char:EOLhyphen"/>ſtine</hi> in his boſome, as <hi>Samp<g ref="char:EOLhyphen"/>ſon</hi> had. So if in choice of a <hi>ſervant,</hi> men ſhall look onely at their own ſervice,
+<pb n="56" facs="tcp:59451:41"/> for ſuch an imployment, &amp; never care for the <hi>Religion</hi> or godlineſſe of that ſer<g ref="char:EOLhyphen"/>vant; the leſſe of that, the better: is it any wonder they complaine of ill ſer<g ref="char:EOLhyphen"/>vants, and bad ſervices? can you look they ſhould be <hi>faithfull</hi> to you, when they and you are unfaithful to God? Mark and imitate <hi>Davids</hi> choice, <hi>Pſalm</hi> 101.4. <hi>I will not know a wicked per<g ref="char:EOLhyphen"/>ſon.</hi> v. 6. <hi>Mine eyes ſhall bee upon the faithful, that they may dwell with me, &amp;c.</hi>
+            </p>
+            <p n="3">
+               <note place="margin">3. Set up Religion in earneſt</note>3. Set up, and keep up <hi>Family Religion</hi> in earneſt, and not in formality only: <hi>Inſtruction, Catechiſing, Rea<g ref="char:EOLhyphen"/>ding</hi> of the word, praying, ſanctification of the Sab<g ref="char:EOLhyphen"/>bath, &amp;c. in your ſelves and yours; And reſolve to ex<g ref="char:EOLhyphen"/>erciſe and execute <hi>Family-diſcipline</hi> upon thoſe that
+<pb n="57" facs="tcp:59451:41"/> are incorrigible. If <hi>admo<g ref="char:EOLhyphen"/>nition, reproofe, correction,</hi> will not amend them; pro<g ref="char:EOLhyphen"/>ceed to the cenſure of houſ<g ref="char:EOLhyphen"/>hold <hi>Excomunication:</hi> (the houſe being a leſſer <hi>Church</hi>) So <hi>David</hi> reſolved, <hi>Pſal.</hi> 10.4, 5, 7. <hi>A froward heart ſhall depart from me; He that privily ſlandereth his neigh<g ref="char:EOLhyphen"/>bour, him will I cut off. He that telleth lies ſhall not tarry in my ſight, (in my houſe)</hi> Let no <hi>Swearer, Drunkard, <g ref="char:V">Ʋ</g>nclean</hi> perſon, <hi>&amp;c.</hi> dwel or tarry in your houſes: Tell them, <hi>As for me and my houſe, we will ſerve the Lord;</hi> if you will not <hi>ſerve</hi> the Lord with me, you ſhall not <hi>ſerve</hi> me.</p>
+            <p n="4">4. <hi>Keep out</hi> (as much as you can) all wicked <hi>Com<g ref="char:EOLhyphen"/>panions</hi> from your houſes:<note place="margin">4. Keep out.</note> Its not poſſible to keep <hi>Re<g ref="char:EOLhyphen"/>ligion</hi>
+               <pb n="58" facs="tcp:59451:42"/> up in your Families, in power and purity; when <hi>Swearers, Drunkards, &amp;c Atheiſts and Scorners</hi> of god<g ref="char:EOLhyphen"/>lineſſe, may have entertain<g ref="char:EOLhyphen"/>ment, and countenance therein. Theſe will cor<g ref="char:EOLhyphen"/>rupt your <hi>children</hi> and ſer<g ref="char:EOLhyphen"/>vants (and well if not your wives.) Theſe will ſcoffe you out of your <hi>Religion</hi> or coole and quench your <hi>de<g ref="char:EOLhyphen"/>votion. Prayers,</hi> and <hi>Rea<g ref="char:EOLhyphen"/>ding, &amp;c</hi> muſt bee ſome<g ref="char:EOLhyphen"/>times intermitted to grati<g ref="char:EOLhyphen"/>fie them: <hi>Sabbaths</hi> muſt be profaned for their ſakes. Say then, you <hi>Maſters</hi> of houſes, <hi>Away from me, ye wicked, I will keep the com<g ref="char:EOLhyphen"/>mandements of my God<g ref="char:punc">▪</g>
+               </hi> even <hi>Strangers</hi> of old were to be kept from profaning of the Sabbath, as in the fourth Commandement; <hi>the ſtran<g ref="char:EOLhyphen"/>ger
+<pb n="59" facs="tcp:59451:42"/> that is within thy gates:</hi> or if not, to be turned out of doores, out of the gates, <hi>Nehem.</hi> 13.17, 21. If they will not obſerve the <hi>religi<g ref="char:EOLhyphen"/>ous</hi> ſervices of the houſe, nor goe with you to Gods houſe, let them not lodge in your houſes. Say then <hi>peremptorily,</hi> ſay and hold it: As for you, doe as you think good, be wicked, pro<g ref="char:EOLhyphen"/>fane, <hi>&amp;c.</hi> it is like you, <hi>But as for me and my houſe we w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll ſerve the Lord.</hi>
+            </p>
+            <p>Laſtly, to conclude all; Here might have been ad<g ref="char:EOLhyphen"/>ded a ſhort exhortation to all ſorts of <hi>Inferiours</hi> in the Family-<hi>relations,</hi>
+               <note place="margin">Inferiors to ſubmit to this way.</note> as wives, children, ſervants, to ſub<g ref="char:EOLhyphen"/>mit to this Religious <hi>Or<g ref="char:EOLhyphen"/>dering</hi> or <hi>Reformation</hi> by the <hi>Governour</hi> of the houſe. If he muſt neceſſarily <hi>com<g ref="char:EOLhyphen"/>mand,</hi>
+               <pb n="60" facs="tcp:59451:43"/> they ought conſcien<g ref="char:EOLhyphen"/>tiouſly to obey; that ſo the <hi>family,</hi> Town, Church, State, may be happily <hi>reformed,</hi> and bleſſed.</p>
+            <div n="1" type="chapter">
+               <pb n="61" facs="tcp:59451:43"/>
+               <head>Chapter 1. The Duties of Chil<g ref="char:EOLhyphen"/>dren to their Parents.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Col. <hi>3.20.</hi>
+                     </bibl>
+                     <p>Children obey your Parents in all things, for that is well pleaſing to the Lord.</p>
+                  </q>
+               </epigraph>
+               <p>Q. <hi>WHat are the parts of this Text?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three.</p>
+               <p n="1">1. A duty; Obey your parents.</p>
+               <p n="2">2. The extent of it, in all things.</p>
+               <p n="3">3. The reaſon or motive; For this is well pleaſing to the Lord.</p>
+               <pb n="63" facs="tcp:59451:44" rendition="simple:additions"/>
+               <p>Q. <hi>What is meant by chil<g ref="char:EOLhyphen"/>dren and Parents?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By children are eſpe<g ref="char:EOLhyphen"/>cially meant ſuch as pro<g ref="char:EOLhyphen"/>ceed by natural generation; by Parents, natural Parents, both father and mother.</p>
+               <p>Q. <hi>What are the grounds of childrens duties to Parents?</hi>
+               </p>
+               <p>
+                  <note place="margin">contra 2 Tim. 3.3.</note>
+                  <hi>A.</hi> A mixture of love and fear; love from the affecti<g ref="char:EOLhyphen"/>ons of Parents to them: and fear from the authority of Parents over them: A fearing love, and a loving fear.</p>
+               <p>Q. <hi>What are the duties of children to Parents?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two, Reverence and Obedience.</p>
+               <p>Q. <hi>Wherein conſiſts their Reverence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In their ſpeech and geſt re.</p>
+               <p>Q. <hi>How doth reverence appear in ſpeech?</hi>
+               </p>
+               <pb n="62" facs="tcp:59451:44"/>
+               <p>
+                  <hi>A.</hi> 1. In a modeſt forbea<g ref="char:EOLhyphen"/>rance to ſpeak in their pre<g ref="char:EOLhyphen"/>ſence,<note place="margin">Job 22.9, 10, 21,</note> till Parents give leave.</p>
+               <p n="2">2. In right framing their words when they do ſpeak.</p>
+               <p>Q. <hi>How may they frame their words aright?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Their words muſt be honourable (to them, or of them) giving them their Titles of Father, Lord, Sir, Mother, <hi>Gen.</hi> 22.7. 1 <hi>Kin.</hi> 2.20.</p>
+               <p n="2">2. They muſt bee few, onely as occaſion is offered.</p>
+               <p n="3">3. They muſt bee meek and humble, as <hi>Jonathan</hi> to his Father, 1 <hi>Sam.</hi> 19.4.</p>
+               <p n="4">4. They muſt obſerve fit opportunities,<note place="margin">1 Sam. 19.9. and 20, 30.</note> when their Parents are not buſie, or in paſſion.</p>
+               <p n="5">5. A ready pleaſing in their anſwers, as 1 <hi>Sam.</hi> 3, 4, 6. <hi>Matth.</hi> 21.30.</p>
+               <pb n="64" facs="tcp:59451:45"/>
+               <p>Q. <hi>How muſt they expreſſe Reverence in their geſture or carriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In tendering obey<g ref="char:EOLhyphen"/>ſance,<note place="margin">Gen. 46 29. 1 Kin. 2.19. Gen. 46.12.</note> uncovering the head, ſtanding up, bowing the body or knee,</p>
+               <p n="2">2. In modeſty and baſh<g ref="char:EOLhyphen"/>fulneſſe in their countenan<g ref="char:EOLhyphen"/>ces and carriage.</p>
+               <p n="3">3. in taking the lower place.</p>
+               <p n="4">4. In asking their bleſ<g ref="char:EOLhyphen"/>ſing, <hi>Gen.</hi> 27.19.34.</p>
+               <p>Q. <hi>What obedience is due to Parents?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Both Paſſive and A<g ref="char:EOLhyphen"/>ctive, 1 <hi>Pet.</hi> 1.14.</p>
+               <p>Q. <hi>Wherein muſt Paſſive obedience appear?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In forbearance to do any thing of moment, with<g ref="char:EOLhyphen"/>out conſent of Parents; As,</p>
+               <p>In choice of a Calling, <hi>Gen.</hi> 28.2.</p>
+               <p n="2">2. In marriage, <hi>Deut.</hi> 7.3.
+<pb n="65" facs="tcp:59451:45"/> 1 <hi>Cor.</hi> 7 36, 37. <hi>Gen.</hi> 24.67. and 29.18. <hi>Judg.</hi> 14.2.</p>
+               <p n="3">3. In diſpoſing of their goods, <hi>Gal</hi> 4.1.</p>
+               <p n="4">4. In ordering their ap<g ref="char:EOLhyphen"/>parel, <hi>Gen.</hi> 37.3. 2 <hi>Sam.</hi> 13.18.</p>
+               <p n="4">4. In vowing, <hi>Num.</hi> 30.4.</p>
+               <p>Q. <hi>Whereby muſt their At<g ref="char:EOLunhyphen"/>ctive obedience bee manife<g ref="char:EOLhyphen"/>ſted?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1: In obeying their commands, to come or go, or do any thing required, <hi>Gen.</hi> 28.5. and 49.1. 1 <hi>Sam.</hi> 17.19, 20.</p>
+               <p n="2">2. In hearkening to their inſtructions, <hi>Prov.</hi> 1.8, 9. and 4.1, 3.</p>
+               <p n="3">3. In patient bearing their reproofes, <hi>Gen.</hi> 37.10. 1 <hi>Sam.</hi> 20.30. with amend<g ref="char:EOLhyphen"/>ment, <hi>Ezod.</hi> 18.17. contra 1 <hi>Sam.</hi> 2.25. <hi>Pro.</hi> 13.1.</p>
+               <p n="4">4 In ſubmiſſion to their
+<pb n="66" facs="tcp:59451:46"/> cor<g ref="char:EOLhyphen"/>rections, <hi>Heb.</hi> 12 9. and re<g ref="char:EOLhyphen"/>forming, <hi>Prov.</hi> 29.7.</p>
+               <p n="5">5. In recompencing their care, love, and kindneſſe, if God makes them able, 1 <hi>Tim.</hi> 5.4. by protection, proviſion,<note place="margin">Joh. 19.17</note> ſupport, com<g ref="char:EOLhyphen"/>fort, <hi>&amp;c.</hi> 1 <hi>Sam.</hi> 22.3, 4. <hi>Geneſ.</hi> 37.35. and 47.8.47.12.</p>
+               <p>Q. <hi>What more is required?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In natural infirmi<g ref="char:EOLhyphen"/>ties, inward or outward, they are to beare them patiently, and cover them carefully from others, <hi>Gen.</hi> 9 23. <hi>Luke</hi> 2.51. <hi>contra Pro.</hi> 30.17.</p>
+               <p n="2">2. In caſual neceſſities, upon their bodies or eſtates, they are to their power to relieve them.</p>
+               <p>Q. <hi>Doe children owe any Duties to their deceaſed Pa<g ref="char:EOLhyphen"/>rents?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Yes: A decent and
+<pb n="67" facs="tcp:59451:46"/> honourabble burial, as they are able, <hi>Gen.</hi> 25.9. and 35.29.</p>
+               <p n="2">2. In paying their debts, if the State will bear it.</p>
+               <p n="3">3. To ſuppreſſe evil re<g ref="char:EOLhyphen"/>ports of them.</p>
+               <p n="4">4.<note place="margin">1 Kin. 3.3. and 15, 12</note> To imitate their good examples: theſe are a part of that honour due to their Parents.</p>
+               <p>Q. <hi>What is the extent of their obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Text ſaith, in all things, that is in all lawful things, in the Lord, <hi>Eph.</hi> 6.1. In things indifferent, bringing their wils to their Parents.</p>
+               <p>Q. <hi>What motives are there to enforce theſe duties upon children?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. This is well plea<g ref="char:EOLhyphen"/>ſing to the Lord; and the cantrary diſpleaſing.</p>
+               <p n="2">2. Parents are in Gods
+<pb n="68" facs="tcp:59451:47"/> ſtead to them, and in doing their duties to them, they doe it unto God: and con<g ref="char:EOLhyphen"/>tra.</p>
+               <p n="3">3 The promiſes made to their obedience, of long life, <hi>Eph.</hi> 6.1, 2, 3. and hap<g ref="char:EOLhyphen"/>pineſſe in this world, in their perſons, eſtates, poſte<g ref="char:EOLhyphen"/>rity, by their Parents bleſ<g ref="char:EOLhyphen"/>ſings, <hi>Deut.</hi> 5.16. and the contrary, threatnings and curſes to undutiful chil<g ref="char:EOLhyphen"/>dren, <hi>Prov.</hi> 30.17.</p>
+               <p n="4">4 This Obedience to their parents on earth, ſhall be a good evidence they are childen to God their Father in heaven.</p>
+               <p>Q. <hi>Are there not ſome be<g ref="char:EOLhyphen"/>ſides natural Parents, that children owe duty to?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: Such as are in the place of parents to them; which may be three wayes.</p>
+               <p n="1">
+                  <pb n="69" facs="tcp:59451:47"/>1. Fathers or mothers in Law, by marriage.</p>
+               <p n="2">2. Guardiars, the next of kin, when Parents are dead.</p>
+               <p n="3">3. Tutors and School-maſters, intruſted with them.</p>
+               <p>
+                  <hi>Q. What duties do chil<g ref="char:EOLhyphen"/>dren owe to their fathers or mothers in Law?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſame for the moſt part, that they owe to their natural Parents. As 1. Reve<g ref="char:EOLhyphen"/>rence, <hi>Exod,</hi> 18.7. 2. Subje<g ref="char:EOLhyphen"/>ction, <hi>Luc.</hi> 2.51. 3 Recom<g ref="char:EOLhyphen"/>pence, as <hi>Ruth</hi> 1. and 2. chap.</p>
+               <p>
+                  <hi>Q. <g ref="char:V">Ʋ</g>pon what grounds are theſe due?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. The marriage bond maketh man and wife one fleſh, and ſo to be accounted by them.</p>
+               <p n="2">2. It is an honour to the natural Parent for children
+<pb n="70" facs="tcp:59451:48"/> to reſpect the other party, that is now one fleſh with them.</p>
+               <p>Q. <hi>What duty owe they to Guardians and Tutors,</hi> &amp;c.</p>
+               <p>
+                  <hi>A.</hi> A ſubjection and re<g ref="char:EOLhyphen"/>verence, becauſe they have the truſt and charge of Pa<g ref="char:EOLhyphen"/>rents to them, as <hi>Eſth.</hi> 2.20. 2 <hi>Kings</hi> 2.12, 15. <hi>Gal.</hi> 4.2.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Chapter 2. The Duties of parents to their children.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Epheſ. <hi>6.4.</hi>
+                     </bibl>
+                     <p>And ye Fathers provoke not your children to wrath, but bring them up in the nurture and admonition of the Lord.</p>
+                     <bibl>Col. <hi>3.21.</hi>
+                     </bibl>
+                     <p>Fathers provoke not your chil<g ref="char:EOLhyphen"/>dren to anger, leſt they be diſ<g ref="char:EOLhyphen"/>couraged.</p>
+                  </q>
+               </epigraph>
+               <pb n="71" facs="tcp:59451:48"/>
+               <p>
+                  <hi>Q. WHat are the parts of thoſe Texts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three. 1. A prohibiti<g ref="char:EOLhyphen"/>on, provoke not your chil<g ref="char:EOLhyphen"/>dren to wrath.</p>
+               <p n="2">2. A reaſon thereof; leſt they be diſcouraged.</p>
+               <p n="3">3. A Precept; but bring them up; <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>What duties are here enjoyned?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To nouriſh or breed them up, with food, apparel and other neceſſaries.</p>
+               <p n="2">2. To nurture them, <hi>viz.</hi> with good diſcipline.</p>
+               <p n="3">3. To inſtruct them in the wayes of God; in admoniti<g ref="char:EOLhyphen"/>on of the Lord.</p>
+               <p>Q. <hi>What is the foundation of Parents duties to their chil<g ref="char:EOLhyphen"/>dren?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Love; (as in other relations) <hi>Tit.</hi> 2.4. by rea<g ref="char:EOLhyphen"/>ſon of the paine, paines, care, and coſt, which no<g ref="char:EOLhyphen"/>thing
+<pb n="72" facs="tcp:59451:49"/> but Love will beare out.</p>
+               <p>Q. <hi>What vices are contra<g ref="char:EOLhyphen"/>ry to this love?</hi>
+               </p>
+               <p>A. 1. Want of natural affection, in the defect. <hi>Rom.</hi> 1.30. <hi>Tit.</hi> 3.3.</p>
+               <p n="2">2. Doating on them, and fondneſſe in the exceſſe, with too much indulgence, 1 <hi>Sam.</hi> 2.29</p>
+               <p>
+                  <hi>Q. What are the general duties, at all times to be done by Parents?</hi>
+               </p>
+               <p>A. 1. Faithful and fervent prayers for them, 1 <hi>Theſ.</hi> 5.17. from beginning to end.</p>
+               <p n="2">2. Upright walking with God, before them, <hi>Pſal.</hi> 112.2. <hi>Prov.</hi> 20.7. and 13.22.</p>
+               <p n="3">3. A provident care for their childrens good, all their dayes, both temporal, and ſpiritual good.</p>
+               <p>
+                  <hi>Q. What is the duty of
+<pb n="73" facs="tcp:59451:49"/> mothers to their children in their infancy?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 Before it is borne, care for the ſafe carriage &amp; delivery of it.</p>
+               <p n="2">2 When it is borne, 1. proviſion of neceſſaries for it, <hi>Luke</hi> 2.7. 2. Nurſing it her ſelfe, if God make her able, <hi>Gen.</hi> 21.7. <hi>Sarah</hi> and <hi>Hannah,</hi> 1 <hi>Sam.</hi> 1.22. <hi>Pſal.</hi> 22.9. 3. Procuring of right Baptiſm, which con<g ref="char:EOLhyphen"/>cerns alſo, and chiefly the father: as in circumciſion.</p>
+               <p>Q. <hi>What duties concerne them in childhood?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A ſpecial care, in bringing them up, and in putting of them forth when fit.</p>
+               <p>Q. <hi>What muſt Parents aime at, in bringing of them up?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. At their temporal good; in firſt nouriſhing
+<pb n="74" facs="tcp:59451:50"/> them well, providing all needful things for life, and health, <hi>Math.</hi> 7.9, 19. <hi>Gen.</hi> 37.3. <hi>Zech.</hi> 8.5. <hi>Joh.</hi> 4.47. 2. Nurturing them with good manners, <hi>Prov.</hi> 22.6. <hi>Levit.</hi> 19.32. <hi>Prov.</hi> 25.6. <hi>Luk.</hi> 14.8. and in ſome honeſt Calling, <hi>Gan.</hi> 4.2. and 37.12. <hi>Exod.</hi> 2.16, &amp;c.</p>
+               <p n="2">2. At their ſpiritual good; in admonition of the Lord, <hi>Deut.</hi> 4.9. <hi>Gen.</hi> 18.19. <hi>Prov.</hi> 4.4. 2 <hi>Tim.</hi> 1.5. In reading the word, 2 <hi>Tim.</hi> 3.15. Catechiſing, <hi>Deut.</hi> 6.7. and by an exemplary life, <hi>Joſh.</hi> 22.15.</p>
+               <p>
+                  <hi>Q. what are the meanes of Nurture?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Frequent admo<g ref="char:EOLhyphen"/>nition, to faſten their in<g ref="char:EOLhyphen"/>ſtructions, <hi>Deut.</hi> 6.7. whet<g ref="char:EOLhyphen"/>ing them.</p>
+               <p n="2">2. Correction; both in words of reproofe, <hi>Prov.</hi> 6.
+<pb n="75" facs="tcp:59451:50"/> 23. and 15.32. and in ſtripes if needful, <hi>Prov.</hi> 22.15. and 23.13, 14.</p>
+               <p>
+                  <hi>Q. What duties do Parents owe to children at riper age, paſt childhood?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Proviſion of fit cal<g ref="char:EOLhyphen"/>lings, as afore.</p>
+               <p n="2">2. Proviſion of fit matches in marriage; as <hi>Abraham,</hi> and <hi>Iſacc</hi> did for theirs; both which require, prepa<g ref="char:EOLhyphen"/>ration of a Stock and Por<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>Q. What are the duties of Parents at the time of their death?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Good counſel, precepts, directions, as <hi>Iſaac</hi> and <hi>Jacob</hi> did.</p>
+               <p n="2">2. Faithful prayers, and bleſſings of them, commen<g ref="char:EOLhyphen"/>ding them into the hands of God.</p>
+               <p n="3">3. Commending them to ſome faithful friend to
+<pb n="76" facs="tcp:59451:51"/> overſee them, and ſupply their loſſe, <hi>Eſth.</hi> 2.15.</p>
+               <p n="4">4. To ſettle their eſtate by Will, to prevent diviſi<g ref="char:EOLhyphen"/>ons amongſt children.<note place="margin">
+                     <hi>Iſa.</hi> 38.1.</note>
+               </p>
+               <p>
+                  <hi>Q. Are there not ſome be<g ref="char:EOLhyphen"/>ſides natural Parents, that owe duty to children?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, thoſe that are in ſtead of Parents which are (as afore) fathers or mo<g ref="char:EOLhyphen"/>thers in Law, guardians, and tutors or ſcoolmaſters.</p>
+               <p>
+                  <hi>Q. What duties do fathers and mothers in Law owe to children</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſame for the moſt part, that natural Pa<g ref="char:EOLhyphen"/>rents owe to them, <hi>Luk.</hi> 2.48. <hi>Exod.</hi> 18.1 <hi>Ruth</hi> 3.1.</p>
+               <p>
+                  <hi>Q. What reaſon is there for this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Marriage making man and wife one fleſh, they ought to love each others children, as part of them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p n="2">
+                  <pb n="77" facs="tcp:59451:51"/>2. It's a ſigne of entire love to each other; Love me, and love my childe, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. It's a ſpecial means to preſerve love betwixt them.</p>
+               <p>Q. <hi>What duties do Guar<g ref="char:EOLhyphen"/>dians owe to the children en<g ref="char:EOLhyphen"/>truſted with them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſame (ſome few excepted) that natural Pa<g ref="char:EOLhyphen"/>rents owe them, <hi>Eſth.</hi> 2 7, 11, 20, 22. and 4.13. 1 <hi>Tim.</hi> 5.8.</p>
+               <p>Q. <hi>What are the ſpecial duties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To look carefully to their education.</p>
+               <p n="2">2. To preſerve their pa<g ref="char:EOLhyphen"/>trimony, <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>What is the duty of Tutors,</hi> &amp;c?</p>
+               <p>
+                  <hi>A.</hi> 1. To inſtruct them well in Piety or Religion. 2. In learning. 3. In good manners.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="78" facs="tcp:59451:52"/>
+               <head>Chapter 3. The Duties of Servants to their Maſters.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Eph. <hi>6.5.</hi> Col. <hi>3.22.</hi>
+                     </bibl>
+                     <p>Servants obey in all things your Maſters according to the fleſh, not with eye-ſervice, <hi>&amp;c</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>Q. WHat are the par<g ref="char:EOLhyphen"/>ticulars of theſe Texts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Four. 1. The kindes of their duties.</p>
+               <p n="2">2. The manner. 3. The extent. 4. the motives.</p>
+               <p>
+                  <hi>Q. What are the kindes of ſervants duties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two. Inward and outward.</p>
+               <p>
+                  <hi>Q. What are the inward?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In judgement, to
+<pb n="79" facs="tcp:59451:52"/> he perſwaded of their Ma<g ref="char:EOLhyphen"/>ſters Superiority over them.</p>
+               <p n="2">2. In a ſpecial aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction of feare, not a ſlaviſh, but reverential feare, counting them worthy of all honour, <hi>Mal.</hi> 1.6. <hi>Eph.</hi> 6.5. 1 <hi>Pet.</hi> 2.18.</p>
+               <p>
+                  <hi>Q. What are their outward duties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two. Reverence, and Obedience.</p>
+               <p>Q. <hi>Wherein appeares their Reverence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In ſpeech; 2. In their carriage.</p>
+               <p>
+                  <hi>Q. How in their ſpeech?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In forbearing to ſpeak in their preſence, at<g ref="char:EOLhyphen"/>tending to what they ſay.</p>
+               <p n="2">2. In ordering their ſpeech aright, when they do ſpeak; where their words muſt be. 1. Reverent, giving their titles, Lord, Maſter, &amp;c. 2. Few. 3. Meek and humble.
+<pb n="80" facs="tcp:59451:53"/> 4. Seaſonable, <hi>Mark</hi> 4.10. 5 Ready to anſwer, <hi>Job</hi> 19.16. 6 True without lying. 7. Good of them in abſence; as contrarily, <hi>Ziba</hi> of his Maſter, 2 <hi>Sam.</hi> 16.3.</p>
+               <p>
+                  <hi>Q How in their carriage?</hi>
+               </p>
+               <p>A. 1. By obeyſance. 2. Standing before them. 3. Heads uncovered. 4. Sober and modeſt countenance. 5. Modeſty of apparel, ſu<g ref="char:EOLhyphen"/>table to their eſtate and place.</p>
+               <p>
+                  <hi>Q. What are the parts of their obedience?</hi>
+               </p>
+               <p>A. 1. Negative or paſſive, to forbear what is forbid<g ref="char:EOLhyphen"/>den or denied them: as 1. Not to goe when and whe<g ref="char:EOLhyphen"/>ther they liſt. 2. Nor doe their own, but their Maſters buſineſſe. 3. Nor diſpoſe of their goods, without leave, <hi>Prov.</hi> 31.15.<note place="margin">Exod. 21.4.</note> 4. Nor mar<g ref="char:EOLhyphen"/>ry without their conſent. 5.
+<pb n="81" facs="tcp:59451:53"/> Nor goe away before their time expired.</p>
+               <p n="2">2. Affirmative, or Active; and that expreſſed. 1. In doing their commands, <hi>Luke</hi> 17.7, 8. 2. In hearkning to their inſtructions, both Reli<g ref="char:EOLhyphen"/>gious and Civil.</p>
+               <p n="3">3 By patient bearing their reproofes, or corrections, 1 <hi>Pet.</hi> 2.18. though unjuſt, <hi>Tit.</hi> 2.9. with ſpeedy amendment, <hi>Prov</hi> 27.22.</p>
+               <p>
+                  <hi>Q. In what manner muſt all their duties be performed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In ſingleneſſe of heart, <hi>Col.</hi> 3.22. and heartily, <hi>v.</hi> 23. or from the heart not with eye-ſervice, or as men-pleaſers; as <hi>Geheri, &amp;c.</hi>
+               </p>
+               <p n="2">2. In conſcience, as fear<g ref="char:EOLhyphen"/>ing God, as unto Chriſt; as ſerving the Lord Chriſt, <hi>Eph.</hi> 6.</p>
+               <p n="3">3. With good will,
+<pb n="82" facs="tcp:59451:54"/> which implyes four things. 1. Cheerfulneſſe. 2. Quick<g ref="char:EOLhyphen"/>neſſe, or readineſſe. 3. Di<g ref="char:EOLhyphen"/>ligence and activeneſſe in it. 4. Faithfulneſſe, 1 <hi>Cor.</hi> 4.1. <hi>Tit.</hi> 2.10. In reſpect of,</p>
+               <p n="1">1. Their Maſters goods, both in keeping them, as <hi>Jacob,</hi> and increaſing them, as they that had the Tal<g ref="char:EOLhyphen"/>lents: contra. <hi>Tit.</hi> 2.20.</p>
+               <p n="2">2. Their buſineſſes, diſ<g ref="char:EOLhyphen"/>patching them well, as <hi>Gen.</hi> 24.2, 12, 26, 33.56.</p>
+               <p n="3">3. Their ſecrets, eſpecial<g ref="char:EOLhyphen"/>ly their infirmities, by con<g ref="char:EOLhyphen"/>cealing them, <hi>Jerem.</hi> 38.27.</p>
+               <p n="4">4. Good example to their fellowes; to make them faithful, diligent, &amp;c. contra. <hi>Math.</hi> 24.48, 49.</p>
+               <p n="5">5. Loving and careful of their children, to procure their good, of ſoul and body.</p>
+               <pb n="83" facs="tcp:59451:54"/>
+               <p>Q. <hi>What is the extent of their obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In all things; that is, in all lawful things, in the Lord: to bring their judge<g ref="char:EOLhyphen"/>ment to their Maſters in all indifferent things: For which end, let them chuſe to ſerve Religious Maſters.</p>
+               <p>Q. <hi>What are the motives uſed to perſwade ſervants to doe their duties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. The place of a Maſter; he ſtands in Chriſts ſtead; and ſo Chriſt is ſer<g ref="char:EOLhyphen"/>ved or neglected in him.</p>
+               <p n="2">2. The honour of their own place, and condition; they are Chriſts ſervants, and freemen, 1. <hi>Cor.</hi> 7.22</p>
+               <p n="3">3. The Recompence of their ſervice from God, <hi>Col.</hi> 3.24.</p>
+               <p>Q. <hi>What is that Recom<g ref="char:EOLhyphen"/>pence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Reward or puniſhment.</p>
+               <pb n="84" facs="tcp:59451:55"/>
+               <p>Q. <hi>What reward is pro<g ref="char:EOLhyphen"/>miſed to them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Temporal, many bleſſings. Firſt from their Maſters, as <hi>Joſeph, Mordecai,</hi> &amp;c. 2. From ſtrangers that behold their good ſervice. 3. He will bleſs their la<g ref="char:EOLhyphen"/>bours when they come to deal for themſelves:<note place="margin">Gen. 43.23.</note> as he did <hi>Jacob.</hi> 4. And give them ſuch good ſervants as they have been.</p>
+               <p n="2">2. Eternal; of the Lord receive the reward of inhe<g ref="char:EOLhyphen"/>ritance with their Maſters, <hi>verſe</hi> 24.</p>
+               <p>Q. <hi>What puniſhment is threatned?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The contrary to the Reward; Temporal, ſend<g ref="char:EOLhyphen"/>ing them hard Maſters, or bad ſervants, when they are Maſters: or curſe their la<g ref="char:EOLhyphen"/>bours: And eternal, <hi>v.</hi> 25. He that doth wrong, ſhall
+<pb n="85" facs="tcp:59451:55"/> receive for the wrong he hath done.</p>
+               <p>Q. <hi>Are there any other motives?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes: 1. If their Ma<g ref="char:EOLhyphen"/>ſters reward them not, God will: if they wrong them, God will right them, upon their Maſters. He that doth wrong (though a Maſter) ſhall receive for the wrong he hath done. No reſpect of perſons with God.</p>
+               <p n="2">2. By being good ſer<g ref="char:EOLhyphen"/>vants, they ſhall be fitted to make good Maſters.</p>
+               <p n="3">3. And prove themſelves good ſervants to God, and truly gracious, <hi>Tit.</hi> 2.10, 11. and adorne the Goſpel and Religion.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="86" facs="tcp:59451:56"/>
+               <head>Chapter 4. The Duties of Maſters to their Servants.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Eph. <hi>6.9.</hi>
+                     </bibl>
+                     <p>Maſters, do ye the ſame things to them, forbearing threat<g ref="char:EOLhyphen"/>ning; knowing that your Maſter alſo is in heaven,</p>
+                     <bibl>Col. <hi>4.1.</hi>
+                     </bibl>
+                     <p>Maſters give unto your ſer<g ref="char:EOLhyphen"/>vants that which is juſt and equal, knowing that ye alſo have a Maſter in heaven.</p>
+                  </q>
+               </epigraph>
+               <p>Q. <hi>WHat are the parts of theſe Texts?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two. 1. The duties in general, Juſtice and E<g ref="char:EOLhyphen"/>quity. 2. The reaſon; knowing that ye have a Maſter in heaven.</p>
+               <pb n="87" facs="tcp:59451:56"/>
+               <p>
+                  <hi>Q. What duties concern Maſters?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Care in chuſing good ſervants, as <hi>Pſal.</hi> 101. at large; eſpecially godly and religious.</p>
+               <p n="2">2. Conſcience in uſing them well.</p>
+               <p>
+                  <hi>Q. Wherein doth this laſt conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In a wiſe main<g ref="char:EOLhyphen"/>taining their authority, as the authority of God.</p>
+               <p n="2">2. In a right managing of it.</p>
+               <p>
+                  <hi>Q. How may they main<g ref="char:EOLhyphen"/>taine wiſely their Authority?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. By a good ex<g ref="char:EOLhyphen"/>ample and worthy carriage, <hi>Joſh.</hi> 24.15. <hi>Pſalm.</hi> 101.1, 2.</p>
+               <p n="2">2. By an awful carriage, that ſervants may ſtand in fear of them.</p>
+               <p n="3">3. By keeping a diſtance from them; leaſt familiari<g ref="char:EOLhyphen"/>ty breed contempt, <hi>Prov.</hi> 30.22. &amp; 29.21.</p>
+               <pb n="88" facs="tcp:59451:57"/>
+               <p>
+                  <hi>Q. What is the extent of their Authority?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In their commands; reſtrained to the Laws of God: and exerciſed in exe<g ref="char:EOLhyphen"/>cution of Gods commands: as <hi>Abraham, Gen.</hi> 19.</p>
+               <p n="2">
+                  <note place="margin">Levit. 25.43.</note>2. In their corrections, which muſt be moderate, and diſcreet; in conſidera<g ref="char:EOLhyphen"/>tion of the age, ſexe, fault of the perſon, <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>How may they manage rightly, their Authority?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By Juſtice and Equity; as the Text.</p>
+               <p>Q. <hi>What doth Juſtice re<g ref="char:EOLhyphen"/>ſpect?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. The ſouls of their ſervants, in their edification and ſalvation, <hi>Joſh.</hi> 24.15. to ſerve the Lord; by teach<g ref="char:EOLhyphen"/>ing them Principles of Re<g ref="char:EOLhyphen"/>ligion, bringing to pub<g ref="char:EOLhyphen"/>lick worſhip; calling them to account, and praying
+<pb n="89" facs="tcp:59451:57"/> with them, and for them, <hi>Jer.</hi> 10.25.</p>
+               <p n="2">2. Their bodies, cheri<g ref="char:EOLhyphen"/>ſhing them with wholſome food, fit apparel,<note place="margin">Pro. 31.21. Deut. 5.14.</note> mode<g ref="char:EOLhyphen"/>rate labour, convenient reſt, vales; and in ſickneſſe, phy<g ref="char:EOLhyphen"/>ſick needful, <hi>Matth.</hi> 8 6.</p>
+               <p n="3">3. Their eſtate, that they may have a calling, and that they may live of them<g ref="char:EOLhyphen"/>ſelves, <hi>Gen.</hi> 30.30.</p>
+               <p>
+                  <hi>Q. What doth Equity re<g ref="char:EOLhyphen"/>quire of them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. A good eſteem of them, not as ſlaves, but as children rather, 2 <hi>Kin.</hi> 5.13. 1 <hi>Cor.</hi> 7.22.</p>
+               <p n="2">2. Taking notice of their goodneſſe, with approba<g ref="char:EOLhyphen"/>tion and kind acceptance:<note place="margin">Matth. 25.21. Rom. 13.3.</note> well done good ſervant.</p>
+               <p n="3">3. Rewarding the good, when goe away, as <hi>Deut.</hi> 15.13.</p>
+               <p>
+                  <hi>Q. What motives are there
+<pb n="90" facs="tcp:59451:58"/> to enforce theſe duties upon them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. They have a Maſter over them; and this will be a ſpure to incite them to their duty, and a curb to do no wrong to them; be<g ref="char:EOLhyphen"/>cauſe he takes notice of both.</p>
+               <p n="2">2. Their Equality, in re<g ref="char:EOLhyphen"/>gard of God; ye (alſo) have a Maſter; and ſo fel<g ref="char:EOLhyphen"/>low-ſervants, <hi>Math.</hi> 24 49.</p>
+               <p n="3">3. In heaven, ſervants are admitted there; no re<g ref="char:EOLhyphen"/>ſpect of perſons with God; And yet there is far greater diſtance between God and them, than betwen them and their ſervants.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="91" facs="tcp:59451:58"/>
+               <head>Chapter. 5. Of Marriage in general.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Heb. <hi>13.4.</hi>
+                     </bibl>
+                     <p>Marriage is honourable a<g ref="char:EOLhyphen"/>mong all, <hi>&amp;c.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>Q. WHerein appears the honour of Marriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In the Author, God himſelfe.</p>
+               <p n="2">2. In the place, Paradiſe.<note place="margin">
+                     <hi>Gen.</hi> 2.18, 21. &amp;c.</note>
+               </p>
+               <p n="3">3. In the time, in Inno<g ref="char:EOLhyphen"/>cency.</p>
+               <p n="4">4. In the perſons, the firſt Parents of all.</p>
+               <p n="5">5. In the manner, con<g ref="char:EOLhyphen"/>ſultation, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Q. What are required to Marriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. A right conjuncti<g ref="char:EOLhyphen"/>on, of man and woman.</p>
+               <p n="2">2. The common and
+<pb n="92" facs="tcp:59451:59"/> mutual duties, which con<g ref="char:EOLhyphen"/>cern them both alike.</p>
+               <p n="3">3. The particular duties of each party.</p>
+               <p>Q. <hi>Who are accounted Husband and Wife?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They who are right<g ref="char:EOLhyphen"/>ly joyned together in mar<g ref="char:EOLhyphen"/>riage, and of two made one fleſh.</p>
+               <p>Q. <hi>Who are parties fit to marry?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They who having ripneſſe of years, and wiſ<g ref="char:EOLhyphen"/>dom to chuſe; no way made impotent to marriage du<g ref="char:EOLhyphen"/>ties, 1 <hi>Cor.</hi> 7.36.</p>
+               <p>Q. <hi>Who are to be accounted impotent?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Born, or made Eu<g ref="char:EOLhyphen"/>nuchs by any occaſion, <hi>Mat.</hi> 19.12. or dangerouſly diſ<g ref="char:EOLhyphen"/>eaſed.</p>
+               <p>Q. <hi>May all ſorts of perſon (but ſuch) marry?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, all, <hi>Heb.</hi> 13.4.
+<pb n="93" facs="tcp:59451:59"/> 1 <hi>Tim.</hi> 4.1, 3. as the diſeaſe of Concupiſcence is com<g ref="char:EOLhyphen"/>mon to all, 1 <hi>Cor.</hi> 7.2, 9.</p>
+               <p>
+                  <hi>Q. In choice of a perſon, what is required?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Choice of a fit hel<g ref="char:EOLhyphen"/>per, <hi>Gen.</hi> 2.18.</p>
+               <p>
+                  <hi>Q. What makes a fit hel<g ref="char:EOLhyphen"/>per?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. One not within the degrees of conſanguinity, or affinity prohibited.</p>
+               <p n="2">2. Equality, in Age, Condition, Eſtate, and Pie<g ref="char:EOLhyphen"/>ty, <hi>Luk.</hi> 1.6.</p>
+               <p>
+                  <hi>Q. How may a godly per<g ref="char:EOLhyphen"/>ſon be known?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. By their religious education, and their an<g ref="char:EOLhyphen"/>ſwerable walking.</p>
+               <p n="2">2. By the report and fame with the good.</p>
+               <p n="3">3. By the lookes, if mo<g ref="char:EOLhyphen"/>deſt and chaſt, <hi>&amp;c.</hi>
+               </p>
+               <p n="4">4. By the ſpeech, if ſpa<g ref="char:EOLhyphen"/>ring and humble.</p>
+               <p n="5">
+                  <pb n="49" facs="tcp:59451:60"/>5. By the Apparel, 1 <hi>Pet.</hi> 3.</p>
+               <p n="6">6. By the Companions: like will to like.</p>
+               <p>
+                  <hi>Q. After what manner are fit perſons to be joyned toge<g ref="char:EOLhyphen"/>ther?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. By a mutual lik<g ref="char:EOLhyphen"/>ing of each other, <hi>Gen,</hi> 24.58.</p>
+               <p n="2">2. By an actual contract, <hi>Gen.</hi> 19.14, 18. <hi>Luk.</hi> 1.27. a promiſe of marriage in due time.</p>
+               <p n="3">3. By a publick ſolemni<g ref="char:EOLhyphen"/>zation of the marriage.</p>
+               <p>
+                  <hi>Q. What are the ends of marriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To be fit helpers one of another.</p>
+               <p n="2">2. Propagation of an holy poſterity.</p>
+               <p n="3">3. To avoid fornication, 1 <hi>Cor.</hi> 7.2.</p>
+               <p>
+                  <hi>Q. What are thoſe mutual and comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n duties, con<g ref="char:EOLhyphen"/>cerning
+<pb n="95" facs="tcp:59451:60"/> both parties alike?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Such as concern them between themſelves. 2. Joyntly with reſpect to o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>
+                  <hi>Q. What are the duties that concern them between themſelves?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Such as reſpect the very being of marriage. 2. Or ſuch as reſpect the well being of it.</p>
+               <p>
+                  <hi>Q. What are thoſe mutual duties to one another, which reſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct the being of marriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Matrimonial uni<g ref="char:EOLhyphen"/>ty, accounting one another to be one fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh; and that without deſertion of one another, except in caſe of Death, or Adultery, <hi>Math.</hi> 1. <hi>Cor.</hi> 7.10, 11. &amp;c.</p>
+               <p n="2">2. Matrimonial chaſtity, or faithfulneſſe in the Co<g ref="char:EOLhyphen"/>venant of marriage, <hi>Mal.</hi> 2.14, 15. <hi>Tit.</hi> 2.5.</p>
+               <pb n="96" facs="tcp:59451:61"/>
+               <p>Q. <hi>What reaſons are there for this chaſtity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 Its one end of mar<g ref="char:EOLhyphen"/>riage, 1 <hi>Cor.</hi> 7.2.</p>
+               <p n="2">2 It preſerves an holy poſterity, <hi>Mal.</hi> 2.15.</p>
+               <p n="3">3 Its the honour of mar<g ref="char:EOLhyphen"/>riage, <hi>Heb.</hi> 13.4.</p>
+               <p>Q. <hi>What is the beſt reme<g ref="char:EOLhyphen"/>dy againſt unchaſtity?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The rendering mutu<g ref="char:EOLhyphen"/>ally to each other due be<g ref="char:EOLhyphen"/>nevolence, 1 <hi>Cor.</hi> 7.3, 4, <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>What are thoſe mutual duties which tend to the well being of marriage?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 Mutual love, or entire affection one towards another <hi>Epp.</hi> 5. laſt. <hi>Tit.</hi> 2.4. 1 <hi>Cor.</hi> 16.14. This is the ground of all their duties</p>
+               <p n="2">2 Mutual concord and. peace, by unity of minds, <hi>Eph.</hi> 4.3. avoiding conten<g ref="char:EOLhyphen"/>tions, <hi>Pro.</hi> 21.9.</p>
+               <pb n="97" facs="tcp:59451:61"/>
+               <p>
+                  <hi>Q. What are the beſt meanes to preſerve love and peace between them?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. All offences muſt be carefuly prevented.</p>
+               <p n="2">2. If given by one, not taken by the other, forbea<g ref="char:EOLhyphen"/>ring one another, <hi>Eph.</hi> 4.2. and forgiving, <hi>v.</hi> 32.</p>
+               <p n="3">3. Beware of jealouſie, or occaſions of it.</p>
+               <p n="4">4. Study to pleaſe one another, 1 <hi>Cor.</hi> 7.33, 34.</p>
+               <p>
+                  <hi>Q. What other common duties concern both?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In general a provi<g ref="char:EOLhyphen"/>dent care for one anothers good.</p>
+               <p>
+                  <hi>Q. What are the means to promote that care?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Cohabitation, or dwelling together, forſa<g ref="char:EOLhyphen"/>king all others, <hi>Pſal.</hi> 45.10. 1 <hi>Cor.</hi> 7.12. 1 <hi>Pet.</hi> 3.7.</p>
+               <p n="2">2. Prayers, not onely ſingly for one another, but
+<pb n="98" facs="tcp:59451:62"/> joyntly with one another, or together.</p>
+               <p>
+                  <hi>Q. What muſt they pray for together?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. That they may be one ſpirit as one fleſh.</p>
+               <p n="2">2. That this Ordiance may be ſanctified to them.</p>
+               <p n="3">3. That (if God pleaſe) they may have children, comely, wiſe, gracious and heires of ſalvation.</p>
+               <p n="4">4. A competency to bring them up.</p>
+               <p n="5">5. For graces, wanting or weak in themſelves.</p>
+               <p>
+                  <hi>Q. What good muſt they promote in each other?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Of their ſoules, 1 <hi>Cor.</hi> 7.16. 1 <hi>Pet.</hi> 3.1, 7: both for converſion and edifica<g ref="char:EOLhyphen"/>tion; and if fallen, reſtoring one another, 1 <hi>Theſ.</hi> 5.11. <hi>Levit.</hi> 19.17.</p>
+               <p n="2">2. Of their bodies, in health and in ſickneſſe, as
+<pb n="99" facs="tcp:59451:62"/> mutual helpers, <hi>Gen.</hi> 27.14.</p>
+               <p n="3">3. Of their good name, <hi>Matth.</hi> 1.19. <hi>Prov.</hi> 22.1. both preſerving it, and preven<g ref="char:EOLhyphen"/>ting ill reports.</p>
+               <p n="4">4. Of their goods or e<g ref="char:EOLhyphen"/>ſtate, <hi>Prov</hi> 31 12.</p>
+               <p>
+                  <hi>Q. What common duties concern them in regard of others?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They reſpect the Fa<g ref="char:EOLhyphen"/>mily, or others.</p>
+               <p>
+                  <hi>Q. What concerns them joyntly to the Family?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> A joynt government of it, each to be helpful in overſeeing the children, ſervants, and affairs there<g ref="char:EOLhyphen"/>of: The Husband chiefly without doors, the Wife within, 1 <hi>Tim.</hi> 5.14. <hi>Prov.</hi> 31.11. &amp;c.</p>
+               <p>
+                  <hi>Q. What Duties reſpect both, in regard of ſtrangers?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. An hoſpitable inter<g ref="char:EOLhyphen"/>tainment, <hi>Gen.</hi> 18.6, 7. &amp;c.</p>
+               <p n="2">
+                  <pb n="100" facs="tcp:59451:63"/>2. Relieving the poor, <hi>Nehem.</hi> 8.10. <hi>Prov.</hi> 31.20.</p>
+               <p>Thus farre the duties common to both; the par<g ref="char:EOLhyphen"/>ticular duties of each par<g ref="char:EOLhyphen"/>ty follow.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>Chapter 6. The Duties of Wives to their Husbands.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Col. <hi>3.18.</hi>
+                     </bibl>
+                     <p>Wives, ſubmit your ſelves unto your own Husbands, as it is fit, in the Lord.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>Q. WHat are the parts of this Text?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Three. 1. Their ſub<g ref="char:EOLhyphen"/>jection commanded, wives ſubmit your ſelves to your husbands. 2. The motive
+<pb n="101" facs="tcp:59451:63"/> or reaſon of it, As it is fit.</p>
+               <p n="3">3 The rule or direction, in the Lord.</p>
+               <p>Q. <hi>Why doth the Apoſtle begin firſt with Husbands and Wives?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cauſe man and wife were the firſt couple in the World; before there were Parents and children, or Maſters and ſervants.</p>
+               <p n="2">2 Becauſe they are the chiefe of the Family, and rule of all the reſt; if they be not good husband and wife, they will never be good Parents, nor good Maſters.</p>
+               <p n="3">3 Becauſe, if they neg<g ref="char:EOLhyphen"/>lect their duties to each o<g ref="char:EOLhyphen"/>ther, nothing goes well in the family; the reſt will be naught by their example.</p>
+               <p>Q. <hi>Why doth the Apoſtle in every Relation, begin firſt with the Inferiour?</hi>
+               </p>
+               <pb n="102" facs="tcp:59451:64"/>
+               <p>
+                  <hi>A.</hi> 1. Becauſe inferiours are moſt unwilling to un<g ref="char:EOLhyphen"/>dergoe their burdens.</p>
+               <p n="2">2. To obey well, is the beſt way to learn to rule well: They prove beſt Su<g ref="char:EOLhyphen"/>periours, that are beſt In<g ref="char:EOLhyphen"/>feriours.</p>
+               <p n="3">3. It's moſt for their own eaſe; becauſe, as they are weakeſt, ſo like to feele the ſmart of it. Due obedience will move Superiours to be kinde to them.</p>
+               <p>
+                  <hi>Q. Why amongſt Inferi<g ref="char:EOLhyphen"/>ours, doth he firſt begin with Wives?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To ſhew the wives inferiority to her husbands, as children to Parents, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Wives were the firſt on whom ſubjection wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> laid, as inſtrumental to ſin.</p>
+               <p n="3">3. The wives example, if good, is very prevolent to
+<pb n="103" facs="tcp:59451:64"/> the reſt to do their duties.</p>
+               <p n="4">4. They moſt unwilling to yeeld ſubjection, by rea<g ref="char:EOLhyphen"/>ſon of the little diſtance from, and nearer Union with their Husbands.</p>
+               <p>
+                  <hi>Q. What is the maine duty of the Wife?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Subjection, or ſubmiſſi<g ref="char:EOLhyphen"/>on to her husband, <hi>Gen.</hi> 3.16.</p>
+               <p>
+                  <hi>Q. Wherein doth that ſub<g ref="char:EOLhyphen"/>jection conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In theſe two things. 1. An acknowledgement of his Superiority over her. 2. In her reſpect to him, as her Superiour.</p>
+               <p>
+                  <hi>Q. How doth it appear that her Husband is her Supe<g ref="char:EOLhyphen"/>riour?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. God hath given it to him, <hi>Gen.</hi> 3.16.</p>
+               <p n="2">2. Nature teaches it, in the weakeneſſe of all Fe<g ref="char:EOLhyphen"/>males,<note place="margin">
+                     <hi>1</hi> Pet. <hi>3.7</hi> The wea<g ref="char:EOLhyphen"/>ker veſſel.</note> and ſo inferiour to the Males.</p>
+               <p n="3">
+                  <pb n="104" facs="tcp:59451:65"/>3. His Titles imply ſu<g ref="char:EOLhyphen"/>periority, as Lord, 1 <hi>Pet.</hi> 3.6. Guide, <hi>Prov.</hi> 2.17. Head, 1 <hi>Cor.</hi> 11.3.</p>
+               <p n="4">4. He repreſents Chriſt, ſhe the Church, <hi>Eph.</hi> 5.23.</p>
+               <p n="5">5. Woman was made for the Man, not the Man for the Woman, <hi>Gen.</hi> 2.18. 1 <hi>Cor.</hi> 11.8, 9.</p>
+               <p>
+                  <hi>Q. What reaſon is there of this acknowledgment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe this is the ground of all true ſubjecti<g ref="char:EOLhyphen"/>on, and obedience, as to the Ordinance of God.</p>
+               <p>Q. <hi>Wherein ſtands her re<g ref="char:EOLhyphen"/>ſpect to him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In two things, Reve<g ref="char:EOLhyphen"/>rence, and Obedience.</p>
+               <p>Q. <hi>What is her reverence to him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Inward, or outward.</p>
+               <p>Q. <hi>What is her inward Reverence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> An high eſteeme of
+<pb n="105" facs="tcp:59451:65"/> him, for his place ſake, as her Lord and Head, by the Ordinance of God; which is called feare, 1 <hi>Pet.</hi> 3.2. and Reverence, <hi>Eph.</hi> 5. laſt, a reverential feare.</p>
+               <p>Q. <hi>Whereby is that feare manifeſted?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 By her care to pleaſe him, 1 <hi>Cor.</hi> 7.34.</p>
+               <p n="2">2 By her joy in pleaſing him, <hi>Pro.</hi> 31.12.</p>
+               <p n="3">3 By her grief in offen<g ref="char:EOLhyphen"/>ding him.</p>
+               <p>Q. <hi>Whereby is her outward fear or reverence diſcovered?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By her behaviour and ſpeech.</p>
+               <p>Q. <hi>What muſt her beha<g ref="char:EOLhyphen"/>viour to him be?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 With gravity, in a ſober carriage, 1 <hi>Tim.</hi> 3.11.</p>
+               <p n="2">2 Meekneſſe, or mildneſs in a cleare and amiable countenance.</p>
+               <p n="3">3 Courteſie, on all oc<g ref="char:EOLhyphen"/>caſions.</p>
+               <p n="4">
+                  <pb n="106" facs="tcp:59451:66"/>4. Modeſty in Apparrel, fitting for his eſtate and place.</p>
+               <p>
+                  <hi>Q. How muſt ſhe order her ſpeech?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> She muſt order it a<g ref="char:EOLhyphen"/>right, both in his preſence, and abſence.</p>
+               <p>
+                  <hi>How in his preſence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Her words muſt be few,<note place="margin">
+                     <hi>Contrary, Pro.</hi> 7.19.</note> rather with ſilence, than much talking, 1 <hi>Tim.</hi> 2.12.</p>
+               <p n="2">2. Reverent, giving him his due Titles, of Lord, or Husband, 1 <hi>Pet.</hi> 3.6.</p>
+               <p n="3">3. Meek, from a quiet ſpirit, 1 <hi>Pet.</hi> 3.4. 2 <hi>Kin.</hi> 4.10, 22.</p>
+               <p>
+                  <hi>Q. How in his abſence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Speaking of him with all due reſpect, as her Su<g ref="char:EOLhyphen"/>periour, <hi>Gen.</hi> 18.1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>
+                  <hi>Q. Wherein conſiſts her obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is either Paſſive or Active.</p>
+               <pb n="107" facs="tcp:59451:66"/>
+               <p>
+                  <hi>Q. Whereby is her Paſſive obedience manifeſted?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In forbearing to diſ<g ref="char:EOLhyphen"/>poſe of the affairs of the family againſt his minde, or without his conſent, <hi>Gen.</hi> 16.5, 6. and 21.10. and 2 <hi>Kin.</hi> 4.10, 22.</p>
+               <p>
+                  <hi>Q. May the Wife do no<g ref="char:EOLhyphen"/>thing without his conſent?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes in three caſes.</p>
+               <p n="1">1. In caſe of Impotency, as when he is ſick, or diſtra<g ref="char:EOLhyphen"/>cted, &amp;c.</p>
+               <p n="2">2. Of impoſſibility, when far abſent.</p>
+               <p n="3">3. Of allowance, mani<g ref="char:EOLhyphen"/>feſted two wayes.</p>
+               <p n="1">1. Generally by reſigna<g ref="char:EOLhyphen"/>tion of all to her, <hi>Prov.</hi> 31.10, 11.</p>
+               <p n="2">2. Particularly, in ſome things, expreſly, or by ſi<g ref="char:EOLhyphen"/>lence and connivence.</p>
+               <p>
+                  <hi>Q. How doth this appear her duty?</hi>
+               </p>
+               <pb n="108" facs="tcp:59451:67"/>
+               <p>
+                  <hi>A.</hi> 1 by that Law, <hi>Gen.</hi> 3.16.</p>
+               <p n="2">2 By example of the good Shunamite, 2 <hi>Kings</hi> 4.9.</p>
+               <p n="3">3 From an Husbands power, to make void her vowes, <hi>Num.</hi> 30.7, 13.</p>
+               <p>Q. <hi>Wherein conſiſts her Active obedience?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In obeying his com<g ref="char:EOLhyphen"/>mands, and bearing his re<g ref="char:EOLhyphen"/>proofes.</p>
+               <p>Q. <hi>Wherein appears her obedience to his commands?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 In cohabitation, following him whether God by his providence calls him, <hi>Gen.</hi> 31.16. 1 <hi>Cor.</hi> 4.5. 1 <hi>Pet.</hi> 3.7.</p>
+               <p n="2">2 Coming to him when ſent for, as <hi>Jacobs</hi> wives did, <hi>Gen.</hi> 31.4. contra. <hi>Eſth.</hi> 1.17.</p>
+               <p n="3">3 Doing what is re<g ref="char:EOLhyphen"/>quired of her, as <hi>Sarah, Gen.</hi> 18.6. and <hi>Jerobo<g ref="char:EOLhyphen"/>ams</hi>
+                  <pb n="109" facs="tcp:59451:67"/> wife, 1 <hi>Kings</hi> 14 2.</p>
+               <p>Q. <hi>How muſt ſhe beare his Reproofes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 If unjuſt, yet with patience.</p>
+               <p n="2">2 If juſt, though ſharp, with meekneſſe, <hi>Gen.</hi> 33.1.</p>
+               <p n="3">3 With readineſſe to a<g ref="char:EOLhyphen"/>mend what was done a<g ref="char:EOLhyphen"/>miſſe, <hi>Gen.</hi> 35.2, 4.</p>
+               <p>Q. <hi>What reaſon gives the Apoſtle to enforce theſe duties?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is fit to do ſo.</p>
+               <p>Q, <hi>What meanes that fit<g ref="char:EOLhyphen"/>neſſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1 Decency, or com<g ref="char:EOLhyphen"/>lineſſe; So it is her honour.</p>
+               <p n="2">2. Equity, as agreeable to the Law of God, of Na<g ref="char:EOLhyphen"/>ture, and to the Goſpel.</p>
+               <p>Q. <hi>What meanes thoſe words, In the Lord?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It implyes, 1. A limi<g ref="char:EOLhyphen"/>tation. 2. A direction. And 3. A motive.</p>
+               <p>Q. <hi>What is the limitation?</hi>
+               </p>
+               <pb n="110" facs="tcp:59451:68"/>
+               <p>
+                  <hi>A.</hi> A Wife muſt ſubmit and obey, but in the Lord; that is, in lawful things.</p>
+               <p>
+                  <hi>Q. What is the Direction?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To do all her duties to her Husband, with an eye to the Lord, as unto Chriſt, <hi>Eph.</hi> 5.22.</p>
+               <p>
+                  <hi>Q. How is it a Motive?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In doing her duty to her husband, ſhe does it to Chriſt; and he takes it ſo.</p>
+               <p n="2">2. In refuſing or neglect<g ref="char:EOLhyphen"/>ing it to him, ſhe does the ſame to Chriſt.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="111" facs="tcp:59451:68"/>
+               <head>Chapter 7. The Duties of Hus<g ref="char:EOLhyphen"/>bands to their Wives.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Col. <hi>3.19.</hi>
+                     </bibl>
+                     <p>Husbands love your wives, and be not bitter againſt them.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>Q. WHat are the parts of this Text?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two. 1. The Duty of an husband, To love his wife. 2. The manner of per<g ref="char:EOLhyphen"/>formance, with mildneſſe; expreſſed by forbidding the contrary: and be not bitter to them.</p>
+               <p>
+                  <hi>Q. Why doth the Apoſtle comprehend the whole duty of the husband in love?</hi>
+                  <note place="margin">
+                     <hi>Eph.</hi> 5.25, 28, 33.</note>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Otherwiſe no duty can be well performed, from one to another, 1 <hi>Cor.</hi> 16.14.</p>
+               <p n="2">
+                  <pb n="112" facs="tcp:59451:69"/>2 The Wife is the chief<g ref="char:EOLhyphen"/>eſt object of love, above friends, ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>de, parents; muſt leave all for her (as ſhe all for him) therefore muſt love her moſt, <hi>Deut.</hi> 13.6. wife or his boſome.</p>
+               <p n="3">3 Leaſt his Superiority and Authority over her ſhould degenerate into Ty<g ref="char:EOLhyphen"/>ranny,</p>
+               <p n="4">4 She the weaker Sexe, and apt to offend; but love will cover all.</p>
+               <p n="5">5 To provoke her to love him, becauſe he firſt loves her, as Chriſt the Church.</p>
+               <p>Q. <hi>What particular du<g ref="char:EOLhyphen"/>ties of the Husband do proceed from Love.</hi>
+               </p>
+               <p>
+                  <note place="margin">
+                     <hi>1</hi> Pet. <hi>3.7.</hi> Accor<g ref="char:EOLhyphen"/>ding to know<g ref="char:EOLhyphen"/>ledge.</note>
+                  <hi>A.</hi> Two. 1. A wife main<g ref="char:EOLhyphen"/>taining of his Authority. 2. A right managing of the ſame.</p>
+               <p>Q. <hi>Why muſt an Husband
+<pb n="113" facs="tcp:59451:69"/> maintaine his Authority?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. This maintaines Gods and Chriſts Authori<g ref="char:EOLhyphen"/>ty, who entruſt him with it.</p>
+               <p n="2">2. This moſt promotes the good of his wife, and the whole family.</p>
+               <p>Q. <hi>How may he maintaine his authority?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By being an example to them in Love, Gravity, Piety, Honeſty; which cauſe a reverent reſpect, in Wife and Family, 1 <hi>Tim.</hi> 4.2.</p>
+               <p>Q. <hi>How is this authority to be managed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. By a tender reſpect of her.</p>
+               <p n="2">2. By a provident care for her.</p>
+               <p>Q. <hi>What is that tender reſpect of her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is either inward or outward.</p>
+               <p>Q. <hi>Wherein conſiſts his in<g ref="char:EOLhyphen"/>ward reſpect?</hi>
+               </p>
+               <pb n="114" facs="tcp:59451:70"/>
+               <p>
+                  <hi>A.</hi> 1. In regard of his Opinion of her.</p>
+               <p n="2">2. In regard of his affe<g ref="char:EOLhyphen"/>ction to her.</p>
+               <p>
+                  <hi>Q. What opinion muſt he have of her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In regard of her place,<note place="margin">
+                     <hi>1</hi> Pet. <hi>3.7.</hi> Giving honour to her.</note> he muſt eſteeme her (not as a ſervant, but) as his yoke-fellow and com<g ref="char:EOLhyphen"/>panion, a little lower then himſelfe, as neereſt to e<g ref="char:EOLhyphen"/>quality.</p>
+               <p n="2">2. In regard of her per<g ref="char:EOLhyphen"/>ſon, ſo he muſt eſteeme his own wife fitteſt and beſt for him, as provided by God, <hi>Prov.</hi> 19.14. and 18.22.</p>
+               <p>
+                  <hi>Q. What affection muſt he bear to her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It muſt be with the greateſt delight in her; as the delight of his eyes, as, <hi>Ezek.</hi> 24.19. raviſht (mo<g ref="char:EOLhyphen"/>deſtly with her love, <hi>Prov.</hi> 5.18, 19.</p>
+               <pb n="115" facs="tcp:59451:70"/>
+               <p>
+                  <hi>Q. Wherein appears his outward reſpect?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In avoiding offen<g ref="char:EOLhyphen"/>ces to her.</p>
+               <p n="2">2. In wiſely ordering her offences to him.</p>
+               <p>
+                  <hi>Q. How may he avoid of<g ref="char:EOLhyphen"/>fences to her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In taking her du<g ref="char:EOLhyphen"/>ty tendered to him.</p>
+               <p n="2">2. In tendering his own to her.</p>
+               <p>
+                  <hi>Q. What is to be done in taking hers?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. A kind acceptation of it, as <hi>Abraham</hi> did <hi>Sa<g ref="char:EOLhyphen"/>rahs, Gen.</hi> 21.8. 1 <hi>Sam.</hi> 1.23.</p>
+               <p n="2">2. Commending and re<g ref="char:EOLhyphen"/>warding her for it, as <hi>Prov.</hi> 31.28, 31. <hi>Eſth.</hi> 5.3. 1 <hi>Kin.</hi> 1.28, &amp;c.</p>
+               <p>
+                  <hi>Q. How muſt he tender his duty to her, to avoid offences?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In mildneſſe, a ſpecial fruit of love; which the A<g ref="char:EOLhyphen"/>poſtle
+<pb n="116" facs="tcp:59451:71"/> intends in theſe words, Be not bitter to them: which is expreſſed.</p>
+               <p n="1">1 In his ſpeeches; whe<g ref="char:EOLhyphen"/>ther giving her Titles, as Wife, Love, <hi>&amp;c.</hi> or inſtru<g ref="char:EOLhyphen"/>tions, commands, or re<g ref="char:EOLhyphen"/>proofes, all with meekneſſe, <hi>Gal.</hi> 6.1. <hi>Prov.</hi> 25.15.</p>
+               <p n="2">2 In his countenance, which muſt be amiable and pleaſing.</p>
+               <p n="3">3 In his geſtures, with a kind of (modeſt) familia<g ref="char:EOLhyphen"/>rity; as <hi>Iſaac</hi> to <hi>Rebecca, Gen.</hi> 26.8.</p>
+               <p n="4">4 In his Actions, by fa<g ref="char:EOLhyphen"/>vours and gifts, as 1 <hi>Sam.</hi> 1.4, 5. <hi>Elkanah</hi> did to his.</p>
+               <p>Q. <hi>What is required in or<g ref="char:EOLhyphen"/>dering her offences to him?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To paſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them by with meekeneſſe, and patiently to bear with her weakneſſe, <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ov.</hi> 19.11. 1 <hi>Pet.</hi> 3 7.</p>
+               <p>Q. <hi>Wherein appears his
+<pb n="117" facs="tcp:59451:71"/> provident care for her?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In providing things needful for her, as her Head,<note place="margin">1 <hi>Sam.</hi> 1.3, 4, 7. <hi>and</hi> 2.19.</note> both for her ſoul, in priva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e and publick meanes of her edification; and alſo for her body, both in health and ſickneſſe, eſpecially in the time of child-bearing; and this not onely in his life time, but after death,<note place="margin">1 <hi>Kin.</hi> 1.21.</note> ſetling a comfortable and ſuitable maintenance on her.</p>
+               <p n="2">2. In protecting her from danger, in her perſon and name, 1 <hi>Sam.</hi> 27.3. and 30.18.</p>
+               <p>
+                  <hi>Q. What motives have Husbands to love their Wives, and do all theſe duties to them.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Beſide the command of God, theſe two.</p>
+               <p n="1">1. The example of Chriſt in loving his Church, (and therein themſelves, if god<g ref="char:EOLhyphen"/>ly)
+<pb n="118" facs="tcp:59451:72" rendition="simple:additions"/> 
+                  <hi>Eph.</hi> 5.25. Now Chriſt loveth <hi>firſt.</hi> 1 <hi>Joh.</hi> 4.19. <hi>In<g ref="char:EOLhyphen"/>deed</hi> and in truth, giving himſelfe for it, <hi>Eph.</hi> 5.26. <hi>Freely. Deut.</hi> 7.7, 8. <hi>Purely,</hi> to ſanctifie it. <hi>v.</hi> 27. <hi>Con<g ref="char:EOLhyphen"/>ſtantly, Joh.</hi> 13.1. <hi>Hoſ.</hi> 2.19. ſo may they.</p>
+               <p n="2">2. The example of ones ſelfe, <hi>Eph.</hi> 5.28, 29 A wife is himſelfe; they are one fleſh.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59451:72"/>
+            <pb facs="tcp:59451:73" rendition="simple:additions"/>
+            <pb facs="tcp:59451:73"/>
+         </div>
+      </body>
+   </text>
+</TEI>
